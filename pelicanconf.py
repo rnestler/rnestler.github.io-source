@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = 'rnestler'
 SITENAME = 'Blog of rnestler'
-SITEURL = 'rnestler.github.io'
+SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = 'en'
 
