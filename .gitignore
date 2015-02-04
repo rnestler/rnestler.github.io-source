@@ -1,2 +1,4 @@
 output
+cache
+*.pid
 __pycache__/
