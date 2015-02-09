@@ -22,8 +22,8 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('coredump', 'http://www.coredump.ch/'))
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/rnstlr'),
+          ('github', 'https://github.com/rnestler'),)
 
 DEFAULT_PAGINATION = 10
 
