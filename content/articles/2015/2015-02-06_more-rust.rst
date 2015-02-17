@@ -1,0 +1,86 @@
+More Rust
+=========
+
+:tags: programming, rust, C++
+:language: en
+:summary: More about the programming language rust
+
+After `getting in touch with rust
+<http://rnestler.github.io/learning-rust.html>`_, the next thing I was looking
+at where pointers and the concept of ownership and borrowing in rust.
+
+Pointers
+--------
+
+Rust has a lot of different pointer types, reminding me the C++ references, raw
+pointers and smart pointers like `std::unique_ptr
+<http://en.cppreference.com/w/cpp/memory/unique_ptr>`_, `std::shared_ptr
+<http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparision
+see `here <https://github.com/rust-lang/rust/wiki/Rust-for-CXX-programmers>`_
+
+One of the first pointer type you will meet in rust is the reference type.
+
+.. sourcecode:: rust
+
+    fn main() {
+        let mut x=1;
+        println!("x = {}", x);
+        add_one(&mut x);
+        println!("x = {}", x);
+    }
+
+    fn add_one(num: &mut i32) {
+        *num += 1;
+    }
+
+In C++ this would look someting like this:
+
+.. sourcecode:: cpp
+
+    #include <cstdio>
+
+    void add_one(int& num) {
+        num += 1;
+    }
+
+    int main() {
+        int x=1;
+        printf("x = %i\n", x);
+        add_one(x);
+        printf("x = %i\n", x);
+    }
+
+What is think is nice in rust is:
+
+ * It's explicit that x will be modified (``&mut x``)
+ * It's guaranteed that x is neither dangling nor 0
+
+In C++ references have value syntax. To avoid that I prefer the style of using
+pointers for mutable and only const reference for imutable data.
+
+.. sourcecode:: cpp
+
+    #include <cstdio>
+
+    void add_one(int* num) {
+        *num += 1;
+    }
+
+    int main() {
+        int x=1;
+        printf("x = %i\n", x);
+        add_one(&x);
+        printf("x = %i\n", x);
+    }
+
+That way the syntax looks much more like the rust example, but you can pass 0:
+
+.. sourcecode:: cpp
+    
+	add_one(0);
+    -> Segmentation fault (core dumped)
+
+
+Ownership, Borrowing and Livetime
+---------------------------------
+
