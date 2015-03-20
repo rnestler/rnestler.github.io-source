@@ -15,7 +15,7 @@ Pointers
 Rust has a lot of different pointer types, reminding me the C++ references, raw
 pointers and smart pointers like `std::unique_ptr
 <http://en.cppreference.com/w/cpp/memory/unique_ptr>`_, `std::shared_ptr
-<http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparision
+<http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparison
 see `here <https://github.com/rust-lang/rust/wiki/Rust-for-CXX-programmers>`_
 
 One of the first pointer type you will meet in rust is the reference type.
@@ -30,10 +30,10 @@ One of the first pointer type you will meet in rust is the reference type.
     }
 
     fn add_one(num: &mut i32) {
-        *num += 1;
+        * num += 1;
     }
 
-In C++ this would look someting like this:
+In C++ this would look something like this:
 
 .. sourcecode:: cpp
 
@@ -56,7 +56,7 @@ What is think is nice in rust is:
  * It's guaranteed that x is neither dangling nor 0
 
 In C++ references have value syntax. To avoid that I prefer the style of using
-pointers for mutable and only const reference for imutable data.
+pointers for mutable and only const reference for immutable data.
 
 .. sourcecode:: cpp
 
@@ -80,7 +80,142 @@ That way the syntax looks much more like the rust example, but you can pass 0:
 	add_one(0);
     -> Segmentation fault (core dumped)
 
+Trying the same with C++ references yields a compile error, because a non const
+reference can't bind to a temporary (rvalue)
+
+.. code-block:: none
+
+    reference.cpp: In function 'int main()':
+    reference.cpp:12:11: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+      add_one(0);
+               ^
+    reference.cpp:3:6: note: in passing argument 1 of 'void add_one(int&)'
+     void add_one(int& num) {
+          ^
+
+Surprising to me, doing the same within rust works
+
+.. sourcecode:: rust
+
+    fn main() {
+        add_one(&mut 0);
+    }
+
+    fn add_one(num: &mut i32) {
+        print!("adding one to {}", num);
+        * num += 1;
+        println!(" -> {}", num);
+    }
+
+Output: ``adding one to 0 -> 1``.  Apparently one can bind mutable references
+to temporaries in rust.
+
+Heap pointers
+-------------
+
+For managing data on the heap rust has the ``Box<T>`` type
+
+.. sourcecode:: rust
+
+    fn main() {
+        let x = Box::new(5);
+        println!("{}", * x);
+    }
+
+Output: ``5``
+
+The equivalent in C++ would be
+
+.. sourcecode:: cpp
+
+    #include <memory>
+    #include <cstdio>
+
+    int main() {
+        auto x = std::make_unique<int>(5);
+        printf("%i\n", *x);
+    }
+
+Note that the compiler takes care of freeing the used resources as soon as x
+goes out of scope. In the C++ world this is called `RAII
+<https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization>`_
+
+
 
 Ownership, Borrowing and Livetime
----------------------------------
+=================================
+
+The Box type is an owning type. Meaning that it owns the resources it is
+pointing to. The same is true for ``std::unique_ptr``
+
+When passing a Box type to a function the ownership transfers to this function
+
+.. sourcecode:: rust
+
+    fn add_one(mut num: Box<i32> ) {
+        * num += 1;
+    }
+
+    fn main() {
+        let x = Box::new(5);
+        println!("{}", * x);
+        add_one(x);
+        println!("{}", * x);
+    }
+
+This will result in a compile error
+
+.. sourcecode:: none
+
+    boxed.rs:10:20: 10:22 error: use of moved value: `*x`
+    boxed.rs:10     println!("{}", * x);
+                                   ^~
+    note: in expansion of format_args!
+    <std macros>:2:43: 2:76 note: expansion site
+    <std macros>:1:1: 2:78 note: in expansion of println!
+    boxed.rs:10:5: 10:24 note: expansion site
+    boxed.rs:9:13: 9:14 note: `x` moved here because it has type `Box<i32>`, which is non-copyable
+    boxed.rs:9     add_one(x);
+
+Because a Box owns the resource, x will get invalid.
+If we try same in C++
+
+.. sourcecode:: cpp
+
+    #include <memory>
+    #include <cstdio>
+
+    void add_one(std::unique_ptr<int> num) {
+        *num += 1;
+    }
+
+    int main() {
+        std::unique_ptr<int> x = std::make_unique<int>(5);
+        printf("%i\n", *x);
+        add_one(std::move(x));
+        printf("%i\n", *x);
+    }
+
+It will result in a segmentation fault:
+
+.. sourcecode:: none
+
+    % g++ -Wall -std=c++14 cpp_smart_pointers.cpp  -o cpp_smart_pointers
+    % ./cpp_smart_pointers 
+    5
+    [1]    28585 segmentation fault (core dumped)  ./cpp_smart_pointers
+
+Because the unique_pointer moved from x into the function argument x remains
+invalid and dereferncing it will leave it invalid.  Note that ``g++`` doesn't
+even issue a warning when compiling this code with ``-Wall``.
+
+What I think is nice in the C++ version is the explicit ``std::move`` which
+makes it obvious to the reader, that x shouldn't be used afterwards.
+
+The compile errors rust gives can be intimidating when learning rust, since it
+is not obvious from the code that x just moved.
+
+But rust's livetime concept doesn't stop here.  It even tracks down usage of
+invalidated references.
+Consider the following C++ code
 
