@@ -1,5 +1,5 @@
-More Rust
-=========
+More Rust compared to C++
+=========================
 
 :tags: programming, rust, C++
 :language: en
@@ -12,11 +12,15 @@ at where pointers and the concept of ownership and borrowing in rust.
 Pointers
 --------
 
-Rust has a lot of different pointer types, reminding me the C++ references, raw
-pointers and smart pointers like `std::unique_ptr
+Rust has a lot of different pointer types, reminding me of the C++ references,
+raw and smart pointers like `std::unique_ptr
 <http://en.cppreference.com/w/cpp/memory/unique_ptr>`_, `std::shared_ptr
 <http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparison
 see `here <https://github.com/rust-lang/rust/wiki/Rust-for-CXX-programmers>`_
+
+
+References
+~~~~~~~~~~
 
 One of the first pointer type you will meet in rust is the reference type.
 
@@ -55,8 +59,9 @@ What is think is nice in rust is:
  * It's explicit that x will be modified (``&mut x``)
  * It's guaranteed that x is neither dangling nor 0
 
-In C++ references have value syntax. To avoid that I prefer the style of using
-pointers for mutable and only const reference for immutable data.
+In C++ references have value syntax. To avoid that I prefer the `style
+<https://google-styleguide.googlecode.com/svn/trunk/cppguide.html#Reference_Arguments>`_
+of using pointers for mutable and only ``const`` reference for immutable data.
 
 .. sourcecode:: cpp
 
@@ -80,8 +85,8 @@ That way the syntax looks much more like the rust example, but you can pass 0:
 	add_one(0);
     -> Segmentation fault (core dumped)
 
-Trying the same with C++ references yields a compile error, because a non const
-reference can't bind to a temporary (rvalue)
+Trying the same with C++ references yields a compile error, because a non
+``const`` reference can't bind to a temporary (rvalue)
 
 .. code-block:: none
 
@@ -111,7 +116,7 @@ Output: ``adding one to 0 -> 1``.  Apparently one can bind mutable references
 to temporaries in rust.
 
 Heap pointers
--------------
+~~~~~~~~~~~~~
 
 For managing data on the heap rust has the ``Box<T>`` type
 
@@ -138,12 +143,12 @@ The equivalent in C++ would be
 
 Note that the compiler takes care of freeing the used resources as soon as x
 goes out of scope. In the C++ world this is called `RAII
-<https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization>`_
+<https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization>`_.
 
 
 
-Ownership, Borrowing and Livetime
-=================================
+Ownership, Borrowing and Lifetime
+---------------------------------
 
 The Box type is an owning type. Meaning that it owns the resources it is
 pointing to. The same is true for ``std::unique_ptr``
@@ -177,7 +182,7 @@ This will result in a compile error
     boxed.rs:9:13: 9:14 note: `x` moved here because it has type `Box<i32>`, which is non-copyable
     boxed.rs:9     add_one(x);
 
-Because a Box owns the resource, x will get invalid.
+Because a Box owns the resource, x will become invalid.
 If we try same in C++
 
 .. sourcecode:: cpp
@@ -186,11 +191,11 @@ If we try same in C++
     #include <cstdio>
 
     void add_one(std::unique_ptr<int> num) {
-        *num += 1;
+        * num += 1;
     }
 
     int main() {
-        std::unique_ptr<int> x = std::make_unique<int>(5);
+        auto x = std::make_unique<int>(5);
         printf("%i\n", *x);
         add_one(std::move(x));
         printf("%i\n", *x);
@@ -206,16 +211,82 @@ It will result in a segmentation fault:
     [1]    28585 segmentation fault (core dumped)  ./cpp_smart_pointers
 
 Because the unique_pointer moved from x into the function argument x remains
-invalid and dereferncing it will leave it invalid.  Note that ``g++`` doesn't
-even issue a warning when compiling this code with ``-Wall``.
+invalid and dereferencing it will leave it invalid.  Note that ``g++`` doesn't
+even issue a warning even when compiling this code with ``-Wall``.
 
 What I think is nice in the C++ version is the explicit ``std::move`` which
-makes it obvious to the reader, that x shouldn't be used afterwards.
+makes it obvious to the reader, that ``x`` shouldn't be used afterwards.
 
 The compile errors rust gives can be intimidating when learning rust, since it
-is not obvious from the code that x just moved.
+is not obvious from the code that ``x`` just moved.
 
-But rust's livetime concept doesn't stop here.  It even tracks down usage of
-invalidated references.
-Consider the following C++ code
+But rust's lifetime concept doesn't stop here.  It even tracks down usage of
+invalidated references.  Consider the following C++ code:
+
+.. sourcecode:: cpp
+
+    #include<cstdio>
+    #include<vector>
+
+    int main() {
+        std::vector<int> v;
+        v.push_back(5);
+        int& x = v[0];
+        printf("%i, ", x);
+        v.push_back(6);
+        printf("%i\n", x);
+    }
+
+Executing this code will output ``5, 0`` on my machine.  According to the `C++
+standard
+<http://en.cppreference.com/w/cpp/container/vector#Iterator_invalidation>`_
+``push_back`` invalidates any reference to elements (iterators).  So accessing
+it triggers undefined behaviour.
+
+Trying the same in rust
+
+.. sourcecode:: rust
+
+    fn main() {
+        let mut v = vec![];
+        v.push(5);
+        let x = &v[0];
+        print!("{}, ", x);
+        v.push(6);
+        println!("{}", x);
+    }
+
+Triggers a compile error:
+
+.. sourcecode:: none
+
+    rust_dangling.rs:6:5: 6:6 error: cannot borrow `v` as mutable because it is also borrowed as immutable
+    rust_dangling.rs:6     v.push(6);
+                           ^
+    rust_dangling.rs:4:14: 4:15 note: previous borrow of `v` occurs here; the immutable borrow prevents subsequent moves or mutable borrows of `v` until the borrow ends
+    rust_dangling.rs:4     let x = &v[0];
+                                    ^
+    rust_dangling.rs:8:2: 8:2 note: previous borrow ends here
+    rust_dangling.rs:1 fn main() {
+    ...
+    rust_dangling.rs:8 }
+                       ^
+
+Rust tries to tell us, that we can't change the vector, because there is still
+a reference to it in scope, namely ``x``!
+To fix the issue we need to limit the scope of ``x``:
+
+.. sourcecode:: rust
+
+    fn main() {
+        let mut v = vec![];
+        v.push(5);
+        {
+            let x = &v[0];
+            print!("{}, ", x);
+        }
+        v.push(6);
+        let x = &v[0];
+        println!("{}", x);
+    }
 
