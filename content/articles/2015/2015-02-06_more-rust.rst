@@ -1,13 +1,13 @@
 More Rust compared to C++
 =========================
 
-:tags: programming, rust, C++
+:tags: programming, Rust, C++
 :language: en
-:summary: More about the programming language rust
+:summary: More about the programming language Rust
 
-After `getting in touch with rust
+After `getting in touch with Rust
 <http://rnestler.github.io/learning-rust.html>`_, the next thing I was looking
-at where pointers and the concept of ownership and borrowing in rust.
+at were pointers and the concept of ownership and borrowing in Rust.
 
 Pointers
 --------
@@ -16,13 +16,13 @@ Rust has a lot of different pointer types, reminding me of the C++ references,
 raw and smart pointers like `std::unique_ptr
 <http://en.cppreference.com/w/cpp/memory/unique_ptr>`_, `std::shared_ptr
 <http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparison
-see `here <https://github.com/rust-lang/rust/wiki/Rust-for-CXX-programmers>`_
+see `here <https://github.com/sarojaba/rust-doc-korean/wiki/Rust-for-CXX-programmers#pointers-and-references>`_.
 
 
 References
 ~~~~~~~~~~
 
-One of the first pointer type you will meet in rust is the reference type.
+One of the first pointer type you will meet in Rust is the reference type.
 
 .. sourcecode:: rust
 
@@ -54,7 +54,7 @@ In C++ this would look something like this:
         printf("x = %i\n", x);
     }
 
-What is think is nice in rust is:
+What is think is nice in Rust is:
 
  * It's explicit that x will be modified (``&mut x``)
  * It's guaranteed that x is neither dangling nor 0
@@ -78,7 +78,7 @@ of using pointers for mutable and only ``const`` reference for immutable data.
         printf("x = %i\n", x);
     }
 
-That way the syntax looks much more like the rust example, but you can pass 0:
+This way the syntax looks much more like the Rust example, but you can pass 0:
 
 .. sourcecode:: cpp
     
@@ -98,7 +98,7 @@ Trying the same with C++ references yields a compile error, because a non
      void add_one(int& num) {
           ^
 
-Surprising to me, doing the same within rust works
+Surprising to me, doing the same within Rust works
 
 .. sourcecode:: rust
 
@@ -113,12 +113,12 @@ Surprising to me, doing the same within rust works
     }
 
 Output: ``adding one to 0 -> 1``.  Apparently one can bind mutable references
-to temporaries in rust.
+to temporaries in Rust.
 
 Heap pointers
 ~~~~~~~~~~~~~
 
-For managing data on the heap rust has the ``Box<T>`` type
+For managing data on the heap Rust has the ``Box<T>`` type
 
 .. sourcecode:: rust
 
@@ -151,9 +151,9 @@ Ownership, Borrowing and Lifetime
 ---------------------------------
 
 The Box type is an owning type. Meaning that it owns the resources it is
-pointing to. The same is true for ``std::unique_ptr``
+pointing to. The same is true for ``std::unique_ptr``.
 
-When passing a Box type to a function the ownership transfers to this function
+When passing a Box type to a function the ownership transfers to this function:
 
 .. sourcecode:: rust
 
@@ -168,7 +168,7 @@ When passing a Box type to a function the ownership transfers to this function
         println!("{}", * x);
     }
 
-This will result in a compile error
+This will result in a compile error:
 
 .. sourcecode:: none
 
@@ -217,10 +217,10 @@ even issue a warning even when compiling this code with ``-Wall``.
 What I think is nice in the C++ version is the explicit ``std::move`` which
 makes it obvious to the reader, that ``x`` shouldn't be used afterwards.
 
-The compile errors rust gives can be intimidating when learning rust, since it
+The compile errors Rust gives can be intimidating when learning Rust, since it
 is not obvious from the code that ``x`` just moved.
 
-But rust's lifetime concept doesn't stop here.  It even tracks down usage of
+But Rust's lifetime concept doesn't stop here.  It even tracks down usage of
 invalidated references.  Consider the following C++ code:
 
 .. sourcecode:: cpp
@@ -243,7 +243,7 @@ standard
 ``push_back`` invalidates any reference to elements (iterators).  So accessing
 it triggers undefined behaviour.
 
-Trying the same in rust
+Trying the same in Rust
 
 .. sourcecode:: rust
 
