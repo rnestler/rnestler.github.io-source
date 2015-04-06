@@ -1,7 +1,7 @@
 Learning Rust
 =============
 
-:tags: programming, rust
+:tags: programming, Rust
 :language: en
 :summary: Learning the programming language rust
 
@@ -28,7 +28,7 @@ The lazy people can try it `online <https://play.rust-lang.org/?code=%2F%2F%20Th
 Hello World!
 ------------
 
-Here comes the obligatory "Hello World!" code in rust
+Here comes the obligatory "Hello World!" code in Rust
 
 .. sourcecode:: rust
 
@@ -78,6 +78,3 @@ So the code will print "2"
 Rust will also emit a warning when not using variables or an error when trying
 to use uninitialized variables.
 
-..  Ownership, Borrowing and Livetime
-    ---------------------------------
-    One of the first things I tried out was the ownership concept:
