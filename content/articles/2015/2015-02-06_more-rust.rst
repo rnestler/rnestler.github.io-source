@@ -290,3 +290,4 @@ To fix the issue we need to limit the scope of ``x``:
         println!("{}", x);
     }
 
+Have comments? Discuss on `Hacker News <https://news.ycombinator.com/item?id=9329506>`_.
