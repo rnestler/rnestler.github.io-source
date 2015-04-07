@@ -16,7 +16,7 @@ Rust has a lot of different pointer types, reminding me of the C++ references,
 raw and smart pointers like `std::unique_ptr
 <http://en.cppreference.com/w/cpp/memory/unique_ptr>`_, `std::shared_ptr
 <http://en.cppreference.com/w/cpp/memory/shared_ptr>`_.  For a nice comparison
-see `here <https://github.com/sarojaba/rust-doc-korean/wiki/Rust-for-CXX-programmers#pointers-and-references>`_.
+see `here <https://github.com/rust-lang/rust-wiki-backup/blob/master/Rust-for-CXX-programmers.rest>`_.
 
 
 References
