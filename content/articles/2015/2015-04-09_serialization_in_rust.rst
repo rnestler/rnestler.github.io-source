@@ -201,5 +201,5 @@ The final encoded String looks like this:
     {"type":"rss","url":"https://www.coredump.ch/feed/"}
 
 
-Have comments? Discuss on `Hacker News <tbd>`_.
+Have comments? Discuss on `Hacker News <https://news.ycombinator.com/item?id=9470475>`_.
 
