@@ -5,8 +5,8 @@ Serialization in Rust
 :language: en
 :summary: Using the Rust JSON serialization to implement the Space API
 
-One of my first projects with rust is the `spaceapi <https://spaceapi.net/>`_ implementation of
-my local `hackerspace <https://coredump.ch>`_.
+One of my first projects with Rust is the `spaceapi <https://spaceapi.net/>`_
+implementation of my local `hackerspace <https://coredump.ch>`_.
 
 You can find the source for it on `github
 <https://github.com/coredump-ch/spaceapi>`_.
@@ -53,6 +53,9 @@ This code will output:
 
     {"api":"0.13","space":"coredump","url":"https://www.coredump.ch/"}
 
+As you can see, the field names map directly to keys in the JSON output. That
+way we can model the Space API objects with structs and have a simple typesave
+solution!
 
 The 'type' property
 -------------------
@@ -99,7 +102,7 @@ trait for Feed.  Implementing ``ToJson`` is easy, there is just one method
     }
 
 Sadly this means the ``Feeds`` struct can't hold the Feed struct directly
-anymore, but needs it as an ``Json`` object:
+anymore, but needs it as a ``Json`` object:
 
 .. sourcecode:: Rust
 
@@ -108,14 +111,14 @@ anymore, but needs it as an ``Json`` object:
         pub blog: Json,
     }
 
-Otherwise the Encodable can't be derived anymore, because it's not implemented
-for the type Feed.  Since this reduces type safety somewhat (we could set
-``blog`` field to any Json string), I discarded this solution.
+Otherwise the Encodable trait can't be derived anymore, because it's not
+implemented for the type Feed.  Since this reduces type safety somewhat (we
+could set ``blog`` field to any Json string), I discarded this solution.
 
 Implementing Encodable
 ----------------------
 
-To regain type safety we need to implement the `Encodable Trait
+To regain type safety we need to implement the `Encodable trait
 <https://doc.rust-lang.org/rustc-serialize/rustc_serialize/trait.Encodable.html>`_
 for Feed.
 The required method for Encodable may be a bit intimidating at the first look:
