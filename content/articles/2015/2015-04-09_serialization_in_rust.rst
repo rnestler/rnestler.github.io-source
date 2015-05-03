@@ -54,7 +54,7 @@ This code will output:
     {"api":"0.13","space":"coredump","url":"https://www.coredump.ch/"}
 
 As you can see, the field names map directly to keys in the JSON output. That
-way we can model the Space API objects with structs and have a simple typesave
+way we can model the Space API objects with structs and have a simple typesafe
 solution!
 
 The 'type' property
