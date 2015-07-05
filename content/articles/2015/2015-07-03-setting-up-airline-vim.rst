@@ -16,7 +16,7 @@ package manager for `user packages <https://aur4.archlinux.org/>`_ in ArchLinux.
 Installing vundle
 -----------------
 
-First one needs to get the vundle plugin via git:
+First one needs to get the vundle plug-in via git:
 
 .. sourcecode:: bash
 
@@ -67,7 +67,7 @@ laststatus=2`` enables the statusline by default and ``let
 g:airline_powerline_fonts = 1`` lets one use the `powerline fonts
 <https://github.com/powerline/fonts>`_
 
-Configuring my terminal emulator of choise, urxvt, turned out to be a bit of a
+Configuring my terminal emulator of choice, urxvt, turned out to be a bit of a
 hassle.
 
 Installing the fonts was easy:
@@ -91,7 +91,7 @@ Then reloading the configuration
     xrdb -merge ~/.Xresources
 
 The problem was that urxvt didn't like that at all and displayed the fonts with
-the spacing all messed up. After an hour of googeling and trying out different
+the spacing all messed up. After an hour of googling and trying out different
 stuff, it turned out I just needed to kill and restart the urxvtd daemon!
 
 .. sourcecode:: bash
