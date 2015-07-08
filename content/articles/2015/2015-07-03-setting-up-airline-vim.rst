@@ -10,7 +10,7 @@ configuration of one of my mate had a fancy status line, showed syntax errors
 when saving a buffer and he used `vundle
 <https://github.com/gmarik/Vundle.vim>`_ to manage his Vim plug-ins.  I used to
 manage my Vim plug-ins with `yaourt <https://github.com/archlinuxfr/yaourt>`_, a
-package manager for `user packages <https://aur4.archlinux.org/>`_ in ArchLinux. 
+package manager for `user packages <https://aur4.archlinux.org/>`_ in ArchLinux.
 
 
 Installing vundle
@@ -21,7 +21,7 @@ First one needs to get the vundle plug-in via git:
 .. sourcecode:: bash
 
     git clone https://github.com/gmarik/vundle.git /home/roughl/.vim/bundle/vundle
-    
+
 Then one needs to setup Vim to use it:
 
 .. sourcecode:: vim
@@ -57,7 +57,7 @@ Configuring airline
 Out of the box airline does show the status bar only if at least one split is
 active:
 
-.. image:: images/vim-airline0.png
+.. image:: /images/vim-airline0.png
     :alt: Vim screen shot with airline
     :align: center
     :width: 100 %
@@ -101,7 +101,7 @@ stuff, it turned out I just needed to kill and restart the urxvtd daemon!
 
 After that it worked like a charm and the special symbols did show up nicely:
 
-.. image:: images/vim-airline1.png
+.. image:: /images/vim-airline1.png
     :alt: Vim screen shot with airline and powerline fonts
     :align: center
     :width: 100 %

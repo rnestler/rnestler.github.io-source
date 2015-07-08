@@ -81,7 +81,7 @@ of using pointers for mutable and only ``const`` reference for immutable data.
 This way the syntax looks much more like the Rust example, but you can pass 0:
 
 .. sourcecode:: cpp
-    
+
 	add_one(0);
     -> Segmentation fault (core dumped)
 
@@ -206,7 +206,7 @@ It will result in a segmentation fault:
 .. sourcecode:: none
 
     % g++ -Wall -std=c++14 cpp_smart_pointers.cpp  -o cpp_smart_pointers
-    % ./cpp_smart_pointers 
+    % ./cpp_smart_pointers
     5
     [1]    28585 segmentation fault (core dumped)  ./cpp_smart_pointers
 

@@ -12,7 +12,7 @@ a deeper look at `it <http://www.rust-lang.org/>`_.
 Getting Rust
 ------------
 
-Installing Rust under arch is as easy 
+Installing Rust under arch is as easy
 
 .. sourcecode:: bash
 
