@@ -5,9 +5,13 @@ C++ List of ScopeGuard
 :language: en
 :summary: Implementing a easy to use List of ScopeGuard
 
-I recently implemented a ScopeGuard based on a `talk of Andrei Alexandrescu
+Recently the developer of `LibrePCB <https://github.com/LibrePCB/LibrePCB>`_
+asked me about a C++ pattern to undo stuff when an exception is thrown.
+
+Of course he basically described the main usage of a ScopeGuard. I went ahead
+and `implemented one <https://github.com/LibrePCB/LibrePCB/pull/57>`_ based on
+a `talk of Andrei Alexandrescu
 <https://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C>`_
-for `LibrePCB <https://github.com/LibrePCB/LibrePCB>`_.
 
 Usage of a ScopeGuard
 ---------------------
@@ -18,7 +22,7 @@ if later code throws an exception.
 .. sourcecode:: cpp
 
     doThing1();
-    auto guard = makeGuard([&]() { undoThing1(); });
+    auto guard = scopeGuard([&]() { undoThing1(); });
 
     // Do stuff that may trow
 
@@ -26,56 +30,10 @@ if later code throws an exception.
     guard.dismiss();
 
 
-.. sourcecode:: cpp
+Using C++11 and later the implementation is fairly simple:
 
-    struct ScopeGuardBase {
-        ScopeGuardBase():
-            mActive(true)
-        { }
-
-        ScopeGuardBase(ScopeGuardBase&& rhs):
-            mActive(rhs.mActive)
-        {
-            rhs.dismiss();
-        }
-
-        void dismiss() noexcept
-        { mActive = false; }
-
-    protected:
-        ~ScopeGuardBase() = default;
-        bool mActive;
-    };
-
-    template<class Fun>
-    struct ScopeGuard: public ScopeGuardBase {
-        ScopeGuard() = delete;
-        ScopeGuard(const ScopeGuard&) = delete;
-
-        ScopeGuard(Fun f) noexcept:
-            ScopeGuardBase(),
-            mF(std::move(f))
-        { }
-
-        ScopeGuard(ScopeGuard&& rhs) noexcept :
-            ScopeGuardBase(std::move(rhs)),
-            mF(std::move(rhs.mF))
-        { }
-
-        ~ScopeGuard() noexcept
-        {
-            if (mActive) {
-                try { mF(); } catch(...) {}
-            }
-        }
-
-        ScopeGuard& operator=(const ScopeGuard&) = delete;
-
-    private:
-        Fun mF;
-    };
-
-
+.. include:: ../../examples/scopeguard/scopeguard.h
+    :code: cpp
 
 Why a ScopeGuardList?
 ---------------------
@@ -99,38 +57,48 @@ need to be undone it leads to code like the following:
     guard3.dismiss();
 
 
-To avoid that repetition and the potential error of a missing call to dismiss
-we came up with a ScopeGuardList.
-
-Using std::function<>
----------------------
-
-One implementation just contained a list of std::function<>
+Things get even worse when doing something in a loop:
 
 .. sourcecode:: cpp
 
-    struct ScopeGuardList : public ScopeGuardBase {
-        ScopeGuardList() = default;
+    for (int i=0; i<10; ++i) {
+        doStuff(i);
+        // how do we create a guard for every operation?
+    }
 
-        ScopeGuardList(ScopeGuardList&& rhs):
-            ScopeGuardBase(std::move(rhs)),
-            mScopeGuards(std::move(rhs.mScopeGuards))
-        { }
 
-        ~ScopeGuardList() {
-            if (mActive) {
-                for (auto& scopeGuard : mScopeGuards) {
-                    scopeGuard();
-                }
-            }
-        }
+To avoid that repetition and the potential error of a missing call to
+``dismiss()`` we came up with a ``ScopeGuardList``.
 
-        template<class Fun> void add(Fun f)
-        { mScopeGuards.emplace_back(std::move(f)); }
+Implementation With std::function<>
+-----------------------------------
 
-    private:
-        std::vector<std::function<void()>> mScopeGuards;
-    };
+A simple implementation just contains a list of ``std::function<>``:
 
-Have comments? Discuss on `Hacker News <https://news.ycombinator.com/`_ or `Reddit <https://>`
+.. include:: ../../examples/scopeguard/scopeguardlist.h
+    :code: cpp
+
+This implementation uses the type erasure of ``std::function`` to store several
+undo functions. While being fairly simple it performs worse compared to the
+above ScopeGuard implementation.
+
+A quick benchmark showed that the ``ScopeGuard`` performs ~14 times faster than ``ScopeGuardList``.
+
+.. include:: ../../examples/scopeguard/benchmark.cpp
+    :code: cpp
+
+
+.. table:: Benchmark with different optimization levels
+
+   =====  ================== =====================
+   -O$N   Time[s] ScopeGuard Time[s] ScopGuardList
+   =====  ================== =====================
+   0      0.178144           2.61144
+   1      0.0180427          0.286136
+   2      0.0170452          0.283548
+   3      0.0170423          0.289958
+   =====  ================== =====================
+
+
+Have comments? Discuss on `Hacker News <https://news.ycombinator.com/>`_ or `Reddit <https://reddit.org>`_
 
