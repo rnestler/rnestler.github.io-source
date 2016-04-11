@@ -107,5 +107,5 @@ LibrePCB we didn't look further for a better performing way without type
 erasure.
 
 Do you have any comments, found a bug or an error? Please leave a note on
-`Reddit <https://reddit.org>`_
+`Reddit <https://www.reddit.com/r/cpp/comments/4ecf5a/c_list_of_scopeguard/>`_
 
