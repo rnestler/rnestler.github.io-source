@@ -6,25 +6,27 @@ C++ List of ScopeGuard
 :summary: Implementing a easy to use List of ScopeGuard
 
 Recently the developer of `LibrePCB <https://github.com/LibrePCB/LibrePCB>`_
-asked me about a C++ pattern to undo stuff when an exception is thrown.
+asked me about a C++ pattern to undo parts of an action if an exception gets
+thrown in the middle of it.
 
 Of course he basically described the main usage of a ScopeGuard. I went ahead
 and `implemented one <https://github.com/LibrePCB/LibrePCB/pull/57>`_ based on
 a `talk of Andrei Alexandrescu
 <https://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C>`_
 
-Usage of a ScopeGuard
----------------------
+Basic Use of a ScopeGuard
+-------------------------
 
 The ScopeGuard allows to write transactional code that will undo previous parts
 if later code throws an exception.
 
 .. sourcecode:: cpp
 
-    doThing1();
-    auto guard = scopeGuard([&]() { undoThing1(); });
+    myVector.push_back(item);
+    auto guard = scopeGuard([&]() { myVector.pop_back() });
 
     // Do stuff that may trow
+    database.add(item);
 
     // everything worked, so don't undo
     guard.dismiss();
@@ -82,7 +84,8 @@ This implementation uses the type erasure of ``std::function`` to store several
 undo functions. While being fairly simple it performs worse compared to the
 above ScopeGuard implementation.
 
-A quick benchmark showed that the ``ScopeGuard`` performs ~14 times faster than ``ScopeGuardList``.
+A quick benchmark showed that the ``ScopeGuard`` performs ~14 times faster than
+``ScopeGuardList``:
 
 .. include:: ../../examples/scopeguard/benchmark.cpp
     :code: cpp
@@ -99,6 +102,10 @@ A quick benchmark showed that the ``ScopeGuard`` performs ~14 times faster than 
    3      0.0170423          0.289958
    =====  ================== =====================
 
+Since the ``ScopeGuardList`` isn't used in any performance critical part in
+LibrePCB we didn't look further for a better performing way without type
+erasure.
 
-Have comments? Discuss on `Hacker News <https://news.ycombinator.com/>`_ or `Reddit <https://reddit.org>`_
+Do you have any comments, found a bug or an error? Please leave a note on
+`Reddit <https://reddit.org>`_
 
