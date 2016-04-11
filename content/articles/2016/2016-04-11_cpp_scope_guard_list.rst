@@ -3,7 +3,7 @@ C++ List of ScopeGuard
 
 :tags: programming, C++
 :language: en
-:summary: Implementing a easy to use List of ScopeGuard
+:summary: Implementing a easy to use list of ScopeGuard
 
 Recently the developer of `LibrePCB <https://github.com/LibrePCB/LibrePCB>`_
 asked me about a C++ pattern to undo parts of an action if an exception gets
