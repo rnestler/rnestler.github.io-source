@@ -11,10 +11,10 @@ thrown in the middle of it.
 
 Of course he basically described the main usage of a ScopeGuard. I went ahead
 and `implemented one <https://github.com/LibrePCB/LibrePCB/pull/57>`_ based on
-a `talk of Andrei Alexandrescu
-<https://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C>`_
+a `talk by Andrei Alexandrescu
+<https://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2012-Andrei-Alexandrescu-Systematic-Error-Handling-in-C>`_.
 
-Basic Use of a ScopeGuard
+Basic use of a ScopeGuard
 -------------------------
 
 The ScopeGuard allows to write transactional code that will undo previous parts
@@ -25,12 +25,17 @@ if later code throws an exception.
     myVector.push_back(item);
     auto guard = scopeGuard([&]() { myVector.pop_back() });
 
-    // Do stuff that may trow
+    // Do stuff that may throw
     database.add(item);
 
     // everything worked, so don't undo
     guard.dismiss();
 
+
+So if ``database.add(item)`` throws, the item in myVector will be removed. For
+more about the motivation behind ScopeGuard see the talk above or `this drdobbs
+article
+<http://www.drdobbs.com/cpp/generic-change-the-way-you-write-excepti/184403758>`_.
 
 Using C++11 and later the implementation is fairly simple:
 
@@ -72,7 +77,7 @@ Things get even worse when doing something in a loop:
 To avoid that repetition and the potential error of a missing call to
 ``dismiss()`` we came up with a ``ScopeGuardList``.
 
-Implementation With std::function<>
+Implementation with std::function<>
 -----------------------------------
 
 A simple implementation just contains a list of ``std::function<>``:
@@ -107,5 +112,5 @@ LibrePCB we didn't look further for a better performing way without type
 erasure.
 
 Do you have any comments, found a bug or an error? Please leave a note on
-`Reddit <https://www.reddit.com/r/cpp/comments/4ecf5a/c_list_of_scopeguard/>`_
+`Reddit <https://www.reddit.com/r/cpp/comments/4ecf5a/c_list_of_scopeguard/>`_.
 
