@@ -1,1 +1,2 @@
-pelican==3.6
+pelican>=3.6,<4.0
+ghp-import>=0.4,<0.5
