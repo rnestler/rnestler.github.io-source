@@ -75,6 +75,6 @@ For me this is quite a decent debugging experience while still being able to
 stay in my favourite text editor!
 
 Do you have any comments, found a bug or an error? Please leave a note on
-`Reddit <https://www.reddit.com/>`_.
+`Reddit <https://www.reddit.com/r/rust/comments/4l226c/debugging_rust_code_with_vim_and_conquegdb/>`_.
 
 
