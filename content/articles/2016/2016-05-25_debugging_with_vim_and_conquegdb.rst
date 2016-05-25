@@ -6,7 +6,7 @@ Debugging Rust code with vim and Conque-GDB
 :summary: Using vim together with Conque-GDB to debug Rust and C/C++ code.
 
 While I use debuggers quite a lot at work in IDEs such as VisualStudio, PyCharm
-or QtCreator (Of course all configured to use vim-like keybindings), I seldom
+or QtCreator (of course all configured to use vim-like keybindings), I seldom
 use them when working on my side projects.
 
 This is maybe due to the fact, that for my side project I mainly use vim
@@ -64,7 +64,7 @@ To debug Rust code we first set ``:ConqueGdbExe rust-gdb``. Then we start an
 instance using ``:ConqueGdb target/debug/$name`` where ``$name`` is the name of
 the executable you want do debug. Then we may set some breakpoints using
 ``<Leader>b`` and finally run our program with ``<Leader>r``. When hitting a
-breakpoint we can examine variable using ``<Leader>p`` to print their content.
+breakpoint we can examine variables using ``<Leader>p`` to print their content.
 
 .. image:: /images/vim_conque_gdb.png
     :alt: Vim screen shot using ConqueGdb
