@@ -20,7 +20,7 @@ First one needs to get the vundle plug-in via git:
 
 .. sourcecode:: bash
 
-    git clone https://github.com/gmarik/vundle.git /home/roughl/.vim/bundle/vundle
+    git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 Then one needs to setup Vim to use it:
 
