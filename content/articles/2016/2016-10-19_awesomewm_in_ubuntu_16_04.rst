@@ -16,7 +16,7 @@ apt install awesome`` LightDM will allow you to start an awesome session.  This
 is due to the ``/usr/share/xsessions/awesome.desktop`` file contained in the
 awesome package.
 
-Unfortunately this does just start awesome directly and does not run the
+Unfortunately this starts awesome directly and does not execute the
 ``~/.xinitrc`` file.  But it does load the various ``/etc/X11/Xsession.d/``
 files which will then load the ``~/.xsessionrc`` file if it exists.  When
 ``.xsessionrc`` gets loaded it will pass the session to be started as the first
