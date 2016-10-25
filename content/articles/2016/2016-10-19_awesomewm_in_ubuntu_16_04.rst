@@ -4,7 +4,6 @@ Setting up the Awesome Window Manager in Ubuntu 16.04
 :tags: Linux, Ubuntu, awesome window manager
 :language: en
 :summary: Setting up the awesome window manager under Ubuntu 16.04
-:status: draft
 
 My window manager of choice is the `awesome window manager`_. On my private
 laptop I have it setup together with the display manager `SLiM`_ and a custom
