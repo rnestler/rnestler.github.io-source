@@ -36,6 +36,8 @@ content:
         ;;
     esac
 
+This starts the gnome-keyring-daemon and export the ``SSH_AUTH_SOCK`` variable,
+but only if we are trying to start an awesome session.
 
 .. _`awesome window manager`: https://awesomewm.org/
 .. _`SLiM`: https://wiki.archlinux.org/index.php/SLiM
