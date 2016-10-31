@@ -4,7 +4,6 @@ Verify Every Single Commit on a git rebase
 :tags: git, rebase
 :language: en
 :summary: Check every commit when reordering commits with git rebase -i
-:status: draft
 
 Sometimes when one uses ``git rebase -i`` to reorder, split or merge commits,
 we screw up the commits in between without noticing, since the final commit
