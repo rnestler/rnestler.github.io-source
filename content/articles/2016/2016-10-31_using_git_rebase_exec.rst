@@ -46,7 +46,7 @@ We are satisfied with the changes and commit it:
     $ git commit -m "Print vector"
 
 
-We than add some more code to show of our fancy vector:
+We than add some more code to show the length of our fancy vector:
 
 .. sourcecode:: Rust
 
@@ -89,7 +89,8 @@ following:
 
 .. sourcecode:: Shell
 
-    % git rebase -i master -x "cargo build"
+    $ git rebase -i master -x "cargo build"
+
     Executing: cargo build
        Compiling git_rebase_x_test v0.1.0 (file:///home/rnestler/proggen/git_rebase_x_test)
     error[E0425]: unresolved name `v`
