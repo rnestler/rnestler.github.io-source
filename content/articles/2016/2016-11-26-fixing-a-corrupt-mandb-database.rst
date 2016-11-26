@@ -4,7 +4,6 @@ Fixing a Corrupt mandb Database
 :tags: Linux, ArchLinux, man-db
 :language: en
 :summary: Fixing a corrupt mandb database
-:status: draft
 
 Recently, probably due to an unexpected power failure, the `man page`_ cache on
 my machine which is managed by ``mandb`` got corrupt. I noticed when
