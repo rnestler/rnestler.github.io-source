@@ -4,7 +4,6 @@ Switching from SLiM to LightDM
 :tags: Linux, ArchLinux, SLiM, LightDM
 :language: en
 :summary: Switching from SLiM to LightDM
-:status: draft
 
 For a long time I have been using `SLiM`_ as my display manager on ArchLinux.
 It worked quite well for me, but is unmaintained since at least 3 years. Also
@@ -46,9 +45,9 @@ it differently under ArchLinux according to `the WiKi`_:
     mv ~/.xinitrc ~/.xprofile
     vim ~/.xprofile # remove the "exec awesome" line
 
-After that I could enjoy a working X-Session with the `awesome window manager`_
-again, while looking forward to a Wayland based desktop, maybe running the `Way
-Cooler`_ window manager.
+Finally, I enjoy a working X-Session with the `awesome window manager`_ again,
+while looking forward to a Wayland based desktop, maybe running the `Way
+Cooler`_ window manager!
 
 .. _`SLiM`: https://wiki.archlinux.org/index.php/SLiM
 .. _`ArchLinux WiKi`: https://wiki.archlinux.org/index.php/SLiM
