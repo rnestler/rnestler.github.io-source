@@ -1,4 +1,4 @@
-Switching from SLim to LightDM
+Switching from SLiM to LightDM
 ==============================
 
 :tags: Linux, ArchLinux, SLiM, LightDM
@@ -7,9 +7,9 @@ Switching from SLim to LightDM
 :status: draft
 
 For a long time I have been using `SLiM`_ as my display manager on ArchLinux.
-It worked quite well for me, but is unmaintained since at least 3 years.  Also
+It worked quite well for me, but is unmaintained since at least 3 years. Also
 according to the `ArchLinux WiKi`_ there are issues regarding to systemd
-compatibility.  Also the Linux desktop is headed towards Wayland so I need a
+compatibility. Also the Linux desktop is headed towards Wayland so I need a
 display manager which can start Wayland sessions.
 
 So my choice fell on `LightDM`_, which should "support different display
@@ -38,8 +38,8 @@ TTY with Ctrl-Alt-1 and stop SLiM and start LightDM:
 
 After that I could login just to notice that my `~/.xinitrc` wasn't getting
 executed, so my helper tools like nm-applet weren't running. Since I already
-solved that issue under `Ubuntu`_ I was a bit surprised that I need to solve it
-differently under ArchLinux according to `the WiKi`_:
+solved that issue under `Ubuntu`_, I was a bit surprised that I need to solve
+it differently under ArchLinux according to `the WiKi`_:
 
 .. sourcecode:: shell
 
