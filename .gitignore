@@ -2,4 +2,5 @@ output
 cache
 *.pid
 *.swp
+*.pyc
 __pycache__/
