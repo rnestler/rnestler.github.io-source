@@ -39,5 +39,5 @@ so stay tuned.
 
 .. _`hackerspaces`: https://wiki.hackerspaces.org/
 .. _`InterRail`: http://www.interrail.eu/en
-.. _`shackerspace`: http://shackerspace.de
+.. _`shackerspace`: https://shack.space/
 .. _`RustFest 2017`: http://2017.rustfest.eu/
