@@ -7,12 +7,14 @@ Starting my "Tour de Hackerspace"
 :summary: Starting my "Tour de Hackerspace"
 
 Today I start what I call my "Tour de Hackerspace"! I'll be travelling around
-Europe and visit various `hackerspaces`_ on the way.
+Europe and visit various `hackerspaces`_ on the way.  To keep travel costs at a
+reasonable level, I bought an `InterRail`_ ticket, which allows flexible
+travelling by train.
 
 Since I'm not the kind of person which is great at planing, this will be more
 or less a spontaneous adventure.  I contacted some hackerspaces upfront and
 received some great and welcoming responses, especially from the Eastern part
-of Europe.
+of Europe!
 
 My first location will be the `shackerspace`_ in Stuttgart, Germany.  After that
 I plan to visit a hackerspace in Amsterdam, then travelling a bit in the east
@@ -31,5 +33,6 @@ so stay tuned.
 
 
 .. _`hackerspaces`: https://wiki.hackerspaces.org/
+.. _`InterRail`: http://www.interrail.eu/en
 .. _`shackerspace`: http://shackerspace.de
 .. _`RustFest 2017`: http://2017.rustfest.eu/
