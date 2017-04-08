@@ -66,7 +66,7 @@ a Back to the Future themed clock which also shows the founding date.
 They also have a beautiful installation showing the open status of various
 hackerspaces, gathered via the `SpaceAPI`_
 
-.. figure:: images/tour_de_hackerspace/shackspace/shack_spaceapi_status.jpg
+.. figure:: /images/tour_de_hackerspace/shackspace/shack_spaceapi_status.jpg
     :alt: SpaceAPI status wall
     :align: center
     :width: 80%
