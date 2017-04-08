@@ -6,8 +6,8 @@ Visiting the shackspace
 :status: draft
 :summary: Visiting the shackspace
 
-I arrived at Stuttgart at 5 pm.  During the trainsride I asked on the
-#shackspace IRC channel if someboy could recommend a place to stay.  All they
+I arrived at Stuttgart at 5 pm.  During the trainride I asked on the
+#shackspace IRC channel if somebody could recommend a place to stay.  All they
 told me was I should avoid the "Ambiente".  So I booked a hotel room close to
 the shackspace which is 15 minutes from the main train station.
 
@@ -20,7 +20,7 @@ the shackspace which is 15 minutes from the main train station.
 
     Me and Ferris arriving in Stuttgart.
 
-Soon after ariving at the hotel I went to the shackspace.
+Soon after arriving at the hotel I went to the shackspace.
 
 .. figure:: /images/tour_de_hackerspace/shackspace/shack_entry.jpg
     :alt: Entry to the shackspace
@@ -48,9 +48,9 @@ They have around 400m² of room in their space, given them the possibility to ha
 
 * A kitchen
 * A big main working room
-* A machine room with Lasercutter, 3D-Printer, ...
+* A machine room with laser-cutter, 3D-printer, ...
 * A silent room, mainly used by student for learning
-* A confrence room
+* A conference room
 
 Like every hackerspace they have lots of beautiful installations arround, like
 a Back to the Future themed clock which also shows the founding date.
