@@ -11,6 +11,11 @@ Europe and visit various `hackerspaces`_ on the way.  To keep travel costs at a
 reasonable level, I bought an `InterRail`_ ticket, which allows flexible
 travelling by train.
 
+.. image:: images/tour_de_hackerspace/map_europe.png
+    :alt: Map of Europe from https://wiki.hackerspaces.org/Europe
+    :align: center
+    :width: 100 %
+
 Since I'm not the kind of person which is great at planing, this will be more
 or less a spontaneous adventure.  I contacted some hackerspaces upfront and
 received some great and welcoming responses, especially from the Eastern part
