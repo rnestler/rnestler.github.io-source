@@ -3,7 +3,6 @@ Starting my "Tour de Hackerspace"
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Starting my "Tour de Hackerspace"
 
 Today I start what I call my "Tour de Hackerspace"! I'll be travelling around
