@@ -3,7 +3,6 @@ Visiting the shackspace
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the shackspace
 
 I arrived at Stuttgart at 5 pm.  During the train ride I asked on the
