@@ -82,7 +82,7 @@ spontaneously to join them! This was awesome, since it meant spending more time
 hacking and less searching for food ;)
 
 Later I joined the conference room, discussing ideas for the `Space Apps
-Challenge 2017`_ for which the shakspace hosts a `hackathon`_.  Last year the
+Challenge 2017`_ for which the shakspace hosts a `hackathon`_.  Last year they
 came up with a project to optimize the growth of plants with machine learning.
 
 .. figure:: /images/tour_de_hackerspace/shackspace/shack_space_apps_2016.jpg
