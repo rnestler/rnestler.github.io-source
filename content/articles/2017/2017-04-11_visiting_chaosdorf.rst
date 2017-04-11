@@ -36,7 +36,7 @@ random strangers walking in from time to time, which is pretty awesome!
     chaosdorf entrance
 
 For the 130 members they have, the rooms is already getting small, but is with
-its 160m² still huge compared to coredump.
+its 160m² still huge compared to coredump!
 
 .. figure:: /images/tour_de_hackerspace/chaosdorf/chaosdorf_main_room_1.jpg
     :alt: main chaosdorf room
@@ -80,7 +80,15 @@ Their space features:
     :width: 10%
     :target: /images/tour_de_hackerspace/chaosdorf/chaosdorf_work_shop.jpg
 
+Similar to shackspace some members in chaosdorf also cook dinner for the group
+and I could join them on Tuesday evening.  Having a nice kitchen in your space
+seems to pay off!
+
+Due to visiting in the midst of the week and not during the weekend, I couldn't
+experience the full chaosdorf experience.  I would love to stay until Friday to
+experience the `Freitagsfoo`_, but Amsterdam is calling!
 
 .. _`chaosdorf`: https://chaosdorf.de
 .. _`chaosdorf location`: http://www.openstreetmap.org/?lat=51.217974999999996&lon=6.788995&zoom=16&layers=M&mlat=51.21656&mlon=6.78347
 .. _`hood ventilator light`: /images/tour_de_hackerspace/chaosdorf/chaosdorf_kitchen_hack.jpg
+.. _`Freitagsfoo`: https://wiki.chaosdorf.de/Freitagsfoo
