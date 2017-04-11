@@ -3,7 +3,6 @@ Visiting the chaosdorf
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the chaosdorf
 
 While my original "plan" involved traveling directly to Amsterdam from
