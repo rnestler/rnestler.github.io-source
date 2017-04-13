@@ -8,9 +8,10 @@ Visiting Technologia Incognita
 
 Getting a place to stay in Amsterdam was harder then I thought due to the fact,
 that a lot of hotels and hostels where fully or almost fully booked!  I still
-got a room after a bit of hassle (I accidentally booked "1 bed in the women
-sleeping room", silly me) in the "WOW Amsterdam" hostel. It's not that close to
-the center, but reachable with either bus or the metro.
+got a room after a bit of hassle (Thanks to this booking sites "only two rooms
+left, book them now!", I accidentally booked "1 bed in the women sleeping
+room", silly me) in the "WOW Amsterdam" hostel. It's not that close to the
+center, but reachable with either bus or the metro.
 
 After the train ride from Düsseldorf, a bus ride to my hostel I took the metro
 to `Technologia Incognita`_.
@@ -23,8 +24,9 @@ to `Technologia Incognita`_.
 
     Entry to the Technologia Incognita
 
-The space features the usual stuff with a kitchen, a `laser-cutter`_, a work
-shop and of course some `awesome decoration`_!
+The space features the usual stuff with a kitchen, a `laser-cutter`_ (if you
+look closely you will see the sell the Diplomatic Passport in their vending
+machine on the left), a work shop and of course some `awesome decoration`_!
 
 .. figure:: /images/tour_de_hackerspace/techinc/techinc_fire.jpg
     :alt: animated LED fire place
@@ -51,6 +53,8 @@ I also met `Saskia Freeke`_ who creates amazing digital art!
 
     Example of Saskias creative programming / digital art
 
+She has a project where she creates similar work every single day since 2015!
+
 There was also a cheese, sausage and beer tasting on the same evening which I,
 as a Swiss guy, definitely approve!
 
@@ -62,7 +66,13 @@ as a Swiss guy, definitely approve!
 
     Cheese and sausage tasting
 
-The next day spontaneously attended the `Hack in the Box`_ conference
+The next day I spontaneously attended the `Hack in the Box`_ conference where
+hackerspaces from the Netherlands also had booths.  I really enjoyed `Toools`_
+lock-picking booth and the talk of TODO.
+
+While I really enjoyed my stay in Amsterdam and with `Technologia Incognita`_
+and almost replanned my trip to spend a few more days there, I decided to stick
+with my plan for once and travel to Warsaw via Berlin.
 
 .. _`Technologia Incognita`: http://technologia-incognita.nl/
 .. _`Hack in the Box`: https://conference.hitb.org/
@@ -71,3 +81,4 @@ The next day spontaneously attended the `Hack in the Box`_ conference
 .. _`laser-cutter`: /images/tour_de_hackerspace/techinc/techinc_vending_machine_laser_cutter.jpg
 .. _`awesome decoration`: /images/tour_de_hackerspace/techinc/techinc_LED_ball.jpg
 .. _`Saskia Freeke`: http://www.sasj.nl/
+.. _`Toools`: http.//TODO.com
