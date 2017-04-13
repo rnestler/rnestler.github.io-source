@@ -49,23 +49,25 @@ I also met `Saskia Freeke`_ who creates amazing digital art!
     :width: 80%
     :figwidth: 80%
 
-    Example of Saskias art
+    Example of Saskias creative programming / digital art
 
-There was also a cheese tasting this day which I, as a Swiss guy, definitely
-approve!
+There was also a cheese, sausage and beer tasting on the same evening which I,
+as a Swiss guy, definitely approve!
 
-.. figure:: images/tour_de_hackerspace/techinc/techinc_cheese_tasting.jpg
+.. figure:: /images/tour_de_hackerspace/techinc/techinc_cheese_tasting.jpg
     :alt: cheese tasting
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Cheese tasting
+    Cheese and sausage tasting
+
+The next day spontaneously attended the `Hack in the Box`_ conference
 
 .. _`Technologia Incognita`: http://technologia-incognita.nl/
 .. _`Hack in the Box`: https://conference.hitb.org/
 .. _`NYC Resistor`: https://www.nycresistor.com/
 .. _`puzzles`: https://trmm.net/Platonic_puzzle
-.. _`laser-cutter`: images/tour_de_hackerspace/techinc/techinc_vending_machine_laser_cutter.jpg
+.. _`laser-cutter`: /images/tour_de_hackerspace/techinc/techinc_vending_machine_laser_cutter.jpg
 .. _`awesome decoration`: /images/tour_de_hackerspace/techinc/techinc_LED_ball.jpg
 .. _`Saskia Freeke`: http://www.sasj.nl/
