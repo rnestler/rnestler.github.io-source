@@ -3,7 +3,6 @@ Visiting Technologia Incognita
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting Technologia Incognita
 
 Getting a place to stay in Amsterdam was harder then I thought due to the fact,
