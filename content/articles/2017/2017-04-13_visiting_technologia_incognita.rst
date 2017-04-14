@@ -68,11 +68,13 @@ as a Swiss guy, definitely approve!
 
 The next day I spontaneously attended the `Hack in the Box`_ conference where
 hackerspaces from the Netherlands also had booths.  I really enjoyed `Toools`_
-lock-picking booth and the talk of TODO.
+lock-picking booth and the talk of Jos Weyers `Most Impressive: A Guide to Key
+Impressioning Attacks`
 
 While I really enjoyed my stay in Amsterdam and with `Technologia Incognita`_
 and almost replanned my trip to spend a few more days there, I decided to stick
-with my plan for once and travel to Warsaw via Berlin.
+with my plan for once and travel to Warsaw via Berlin, with a short stop to
+visit c-base.
 
 .. _`Technologia Incognita`: http://technologia-incognita.nl/
 .. _`Hack in the Box`: https://conference.hitb.org/
@@ -81,4 +83,5 @@ with my plan for once and travel to Warsaw via Berlin.
 .. _`laser-cutter`: /images/tour_de_hackerspace/techinc/techinc_vending_machine_laser_cutter.jpg
 .. _`awesome decoration`: /images/tour_de_hackerspace/techinc/techinc_LED_ball.jpg
 .. _`Saskia Freeke`: http://www.sasj.nl/
-.. _`Toools`: http.//TODO.com
+.. _`Toools`: http://toool.us/
+.. _`Most Impressive: A Guide to Key Impressioning Attacks`: http://conference.hitb.org/hitbsecconf2017ams/sessions/most-impressive-a-guide-to-key-impressioning-attacks/
