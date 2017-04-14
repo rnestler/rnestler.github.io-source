@@ -13,8 +13,8 @@ left, book them now!", I accidentally booked "1 bed in the women sleeping
 room", silly me) in the "WOW Amsterdam" hostel. It's not that close to the
 center, but reachable with either bus or the metro.
 
-After the train ride from Düsseldorf, a bus ride to my hostel I took the metro
-to `Technologia Incognita`_.
+After the train ride from Düsseldorf and a bus ride to my hostel I took the
+metro to `Technologia Incognita`_.
 
 .. figure:: /images/tour_de_hackerspace/techinc/techinc_entry.jpg
     :alt: Entry to the Technologia Incognita
@@ -25,7 +25,7 @@ to `Technologia Incognita`_.
     Entry to the Technologia Incognita
 
 The space features the usual stuff with a kitchen, a `laser-cutter`_ (if you
-look closely you will see the sell the Diplomatic Passport in their vending
+look closely you will see they sell the Diplomatic Passport in their vending
 machine on the left), a work shop and of course some `awesome decoration`_!
 
 .. figure:: /images/tour_de_hackerspace/techinc/techinc_fire.jpg
@@ -69,7 +69,7 @@ as a Swiss guy, definitely approve!
 The next day I spontaneously attended the `Hack in the Box`_ conference where
 hackerspaces from the Netherlands also had booths.  I really enjoyed `Toools`_
 lock-picking booth and the talk of Jos Weyers `Most Impressive: A Guide to Key
-Impressioning Attacks`
+Impressioning Attacks`_.
 
 While I really enjoyed my stay in Amsterdam and with `Technologia Incognita`_
 and almost replanned my trip to spend a few more days there, I decided to stick
