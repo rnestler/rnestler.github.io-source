@@ -44,9 +44,9 @@ decoration they have inside which leads to a great atmosphere!
     The Mate light inside c-base
 
 The members in the space were a bit busy because they had their "circle"
-meeting.  But I got soon busy talking to the members and somehow got rather
-busy giving one of them a rather in depth introduction to basic embedded
-development using amonsgst other things
+meeting.  So I just started talking to the members not attending the meeting
+and somehow got rather absorbed giving one of them a rather in depth
+introduction to basic embedded development using amongst other things
 
 * `Arduino`_
 * `avrdude`_
