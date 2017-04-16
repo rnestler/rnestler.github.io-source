@@ -3,7 +3,6 @@ Visiting c-base
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting c-base
 
 After an exhausting train ride from Amsterdam to Berlin which started at 20.25
