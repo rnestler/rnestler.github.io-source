@@ -56,7 +56,7 @@ development using amonsgst other things
 * `Bus Pirate`_
 * `I2C`_
 
-(This list serves primarily as a reference for him in case he forgot the
+(This list serves primarily as a reference for him in case he forgot to
 bookmark them ;)
 
 Since I was still very tired from the lack of sleep during the train ride from
@@ -65,8 +65,8 @@ since I got really busy and was invited to be given a show around the crashed
 space station around 1am, I stayed until 2:30am.
 
 The guided tour through the spaceship was pretty awesome, thanks again to my
-guide!  Since I didn't really take any pictures it's best for you to visit
-c-base by yourself if you're around Berlin next time!
+guide!  Since I didn't really take any pictures I recommend you to visit
+`c-base`_ by yourself if you're around Berlin next time!
 
 .. _`c-base`: https://www.c-base.org/
 .. _`@andrewhobden`: https://twitter.com/andrewhobden
