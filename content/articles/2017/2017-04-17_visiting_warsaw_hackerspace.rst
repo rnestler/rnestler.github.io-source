@@ -3,7 +3,6 @@ Visiting Warsaw Hackerspace
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting Warsaw Hackerspace
 
 I was warned on IRC that the activity would be rather low in the Warsaw
