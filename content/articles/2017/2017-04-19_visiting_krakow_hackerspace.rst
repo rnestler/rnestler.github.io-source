@@ -36,27 +36,46 @@ The space mainly consist of:
 * A `computer / presentation room`_
 * A `workshop room`_
 
-In the work shop they actually built the ventilation system themself!
+In the workshop they actually built the ventilation system themself!
 
 .. figure:: /images/tour_de_hackerspace/krakow/krakow_work_shop_ventilation.jpg
-    :alt: Work shop ventilation system
+    :alt: Workshop ventilation system
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Work shop ventilation system
+    Workshop ventilation system
 
 And during my visit they actually built a controller board to be able to
 regulate the speed of the ventilation system.  Was awesome to watch them
 getting busy until 1 or 2am.
 
 .. figure:: /images/tour_de_hackerspace/krakow/krakow_work_shop_ventilation_controlled.jpg
-    :alt: Work shop ventilation controller
+    :alt: Workshop ventilation controller
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Work shop ventilation with freshly built controller on the buttom right
+    Workshop ventilation with freshly built controller on the bottom right
+
+They also told me about some past and present projects.  In the past they
+helped build the lightening system for the Galeria Krakowska, which is a big
+shopping mall close to the main train station.
+
+.. figure:: /images/tour_de_hackerspace/krakow/krakow_galeria.jpg
+    :alt: Galeria Krakowska lightening system
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Galeria Krakowska lightening system
+
+The green LED wall on the picture can actually change color and also show
+different animations and effects.
+
+Another project they are working on is tracking and collecting "radio sondes"
+form the TODO project. This probes are used for weather related analysis.
+
 
 .. _`Hackerspace Kraków`: https://hackerspace-krk.pl/
 .. _`electronic lab`: /images/tour_de_hackerspace/krakow/krakow_electronic_lab.jpg
