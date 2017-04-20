@@ -73,11 +73,46 @@ shopping mall close to the main train station.
 The green LED wall on the picture can actually change color and also show
 different animations and effects.
 
-Another project they are working on is tracking and collecting "radio sondes"
-form the TODO project. This probes are used for weather related analysis.
+Another project they are working on is tracking and collecting `radiosondes`_.
+This probes are used for weather related analysis and are started with weather
+balloons by `weather stations`_ all around Europe.
 
+.. figure:: /images/tour_de_hackerspace/krakow/krakow_radio_sonde_0.jpg
+    :alt: Captured radiosondes
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Captured radiosondes
+
+One of their member created a `Docker image`_ which contains various software
+related to tracking the radiosondes.
+
+.. figure:: /images/tour_de_hackerspace/krakow/krakow_radio_sonde_tracking.jpg
+    :alt: Antenna used to track radiosondes
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Antenna used to track radiosondes
+
+.. figure:: /images/tour_de_hackerspace/krakow/krakow_radio_sonde_coverage.jpg
+    :alt: Tracking coverage achieved with the antenna above
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Tracking coverage achieved with the antenna above
+
+Since I took myself quite some time to have a look at the city (Which is
+amazing, I can definitely recommend a visit to the castle and the underground
+museum), I only showed up at the hackerspace for a quick goodbye the other day.
+But I really enjoyed my stay their nevertheless!
 
 .. _`Hackerspace Kraków`: https://hackerspace-krk.pl/
 .. _`electronic lab`: /images/tour_de_hackerspace/krakow/krakow_electronic_lab.jpg
 .. _`computer / presentation room`: /images/tour_de_hackerspace/krakow/krakow_computer_room.jpg
 .. _`workshop room`: /images/tour_de_hackerspace/krakow/krakow_work_shop.jpg
+.. _`radiosondes`: https://en.wikipedia.org/wiki/Radiosonde
+.. _`weather stations`: http://radiosonde.eu/RS00-D/RS02C-D.html
+.. _`Docker image`: https://hub.docker.com/r/teeed/dxlaprs/
