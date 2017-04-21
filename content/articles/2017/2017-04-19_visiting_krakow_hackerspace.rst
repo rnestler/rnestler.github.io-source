@@ -105,9 +105,9 @@ related to tracking the radiosondes.
     Tracking coverage achieved with the antenna above
 
 Since I took myself quite some time to have a look at the city (Which is
-amazing, I can definitely recommend a visit to the castle and the underground
-museum), I only showed up at the hackerspace for a quick goodbye the other day.
-But I really enjoyed my stay their nevertheless!
+amazing, I can definitely recommend a visit to the `Wawel Castle`_ and the
+`underground museum`_), I only showed up at the hackerspace for a quick goodbye
+the other day.  But I really enjoyed my stay their nevertheless!
 
 .. _`Hackerspace Kraków`: https://hackerspace-krk.pl/
 .. _`electronic lab`: /images/tour_de_hackerspace/krakow/krakow_electronic_lab.jpg
@@ -116,3 +116,5 @@ But I really enjoyed my stay their nevertheless!
 .. _`radiosondes`: https://en.wikipedia.org/wiki/Radiosonde
 .. _`weather stations`: http://radiosonde.eu/RS00-D/RS02C-D.html
 .. _`Docker image`: https://hub.docker.com/r/teeed/dxlaprs/
+.. _`Wawel Castle`: http://osmand.net/go?lat=50.05451&lon=19.936409&z=17
+.. _`underground museum`: http://osmand.net/go?lat=50.062&lon=19.937761&z=19
