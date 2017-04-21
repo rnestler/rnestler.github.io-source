@@ -89,20 +89,20 @@ One of their member created a `Docker image`_ which contains various software
 related to tracking the radiosondes.
 
 .. figure:: /images/tour_de_hackerspace/krakow/krakow_radio_sonde_tracking.jpg
-    :alt: Antenna used to track radiosondes
+    :alt: Setup used to track radiosondes
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Antenna used to track radiosondes
+    Setup used to track radiosondes
 
 .. figure:: /images/tour_de_hackerspace/krakow/krakow_radio_sonde_coverage.jpg
-    :alt: Tracking coverage achieved with the antenna above
+    :alt: Tracking coverage achieved with the setup above
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Tracking coverage achieved with the antenna above
+    Tracking coverage achieved with the setup above
 
 Since I took myself quite some time to have a look at the city (Which is
 amazing, I can definitely recommend a visit to the `Wawel Castle`_ and the
