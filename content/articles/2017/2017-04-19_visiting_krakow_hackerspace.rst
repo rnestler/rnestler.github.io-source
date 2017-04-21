@@ -3,7 +3,6 @@ Visiting Hackerspace Kraków
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting Hackerspace Kraków
 
 Since the 3G connection during the train ride was exceptionally bad, I had
