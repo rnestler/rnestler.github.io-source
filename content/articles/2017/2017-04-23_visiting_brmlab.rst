@@ -26,13 +26,43 @@ description`_ on how to find their space.
 
     Entry to the `brmlab`_
 
-The space features some of the usual stuff
+The space features some of the usual stuff:
 
 * A big main working room
-* An `electro lab`_
-* A kitchen with their shop
 
-What really sets their hackerspace apart from others is that it features a
+    .. image:: /images/tour_de_hackerspace/brmlab/brmlab_main_room.jpg
+      :alt: brmlab main working room
+      :align: center
+      :width: 10%
+      :target: /images/tour_de_hackerspace/brmlab/brmlab_main_room.jpg
+
+* An electro lab
+
+    .. image:: /images/tour_de_hackerspace/brmlab/brmlab_electro_lab.jpg
+      :alt: brmlab electro lab
+      :align: center
+      :width: 10%
+      :target: /images/tour_de_hackerspace/brmlab/brmlab_electro_lab.jpg
+
+* A kitchen with a shop
+
+* A small server room
+
+    .. image:: /images/tour_de_hackerspace/brmlab/brmlab_server_room.jpg
+      :alt: brmlab server room
+      :align: center
+      :width: 10%
+      :target: /images/tour_de_hackerspace/brmlab/brmlab_server_room.jpg
+
+* A workshop
+
+    .. image:: /images/tour_de_hackerspace/brmlab/brmlab_workshop.jpg
+      :alt: brmlab workshop
+      :align: center
+      :width: 10%
+      :target: /images/tour_de_hackerspace/brmlab/brmlab_workshop.jpg
+
+But what really sets their hackerspace apart from others is that it features a
 chemistry and a bio lab!
 
 .. figure:: /images/tour_de_hackerspace/brmlab/brmlab_micro_scope.jpg
@@ -54,6 +84,30 @@ same evening.
 
     Looking at a silicon wafer through the microscope
 
+Inside the bio lab there is also the relax zone / silent room.
+
+.. figure:: /images/tour_de_hackerspace/brmlab/brmlab_silent_room.jpg
+    :alt: Relax zone with awesome graffiti
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Relax zone with awesome graffiti!
+
+
+Quite stunning is their high voltage lab
+
+.. figure:: /images/tour_de_hackerspace/brmlab/brmlab_high_voltage_lab.jpg
+    :alt: brmlab high voltage lab
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    brmlab high voltage lab
+
+It features some quite huge `Tesla coils`_ and other high voltage equipment such
+as high voltage capacitors, transformers or high voltage measurement systems.
+
 Also really impressive is the bitcoin ATM they have!
 
 .. figure:: /images/tour_de_hackerspace/brmlab/brmlab_bitcoin_atm.jpg
@@ -69,9 +123,48 @@ this is the first prototype of the `General Bytes bitcoin ATM`_.  It was
 installed in their space so they could test it.  During testing they found and
 reported two security issues, which then could be fixed.
 
+Like most hackerspaces they also have some awesome decorations, in this case a
+wall paneled with motherboards.
+
+.. figure:: /images/tour_de_hackerspace/brmlab/brmlab_motherboards.jpg
+    :alt: Wall of motherboards
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Wall of motherboards
+
+The also own an `IBM AS/400 system`_ with a fitting hardware terminal which
+gives one some possibilities to discover a mainframe style system.
+
+.. figure:: /images/tour_de_hackerspace/brmlab/brmlab_ibm_terminal.jpg
+    :alt: Terminal connected to the IBM AS/400
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Terminal connected to the IBM AS/400
+
+It was real fun interacting with this machine!  You can find more information
+about it on their `wiki`_.
+
+All in all my Prague and brmlab experience was really amazing! The city is very
+beautiful (albeit a bit crowed with tourists) and I enjoyed hanging out with a
+few of the brmlab hackers the other night!
+
+.. figure:: /images/tour_de_hackerspace/brmlab/brmlab_prague.jpg
+    :alt: Overview of Prague
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Overview of Prague
+
 .. _`brmlab`: https://brmlab.cz/
 .. _`A plus Hostel`: http://osmand.net/go?lat=50.090122&lon=14.437044&z=18
 .. _`well written description`: https://brmlab.cz/place
-.. _`electro lab`: /images/tour_de_hackerspace/brmlab/brmlab_electro_lab.jpg
+.. _`Tesla coils`: images/tour_de_hackerspace/brmlab/brmlab_high_voltage_lab_2.jpg
 .. _`General Bytes bitcoin ATM`: https://www.generalbytes.com/first-bitcoin-atm-deployed/
 .. _`bought myself 6 mBTC`: /images/tour_de_hackerspace/brmlab/brmlab_bitcoin_transaction.jpg
+.. _`IBM AS/400 system`: images/tour_de_hackerspace/brmlab/brmlab_ibm.jpg
+.. _`wiki`: https://brmlab.cz/project/as400/start
