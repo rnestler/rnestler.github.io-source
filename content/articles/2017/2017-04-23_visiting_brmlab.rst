@@ -3,7 +3,6 @@ Visiting brmlab
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting brmlab
 
 After a quite pleasant night train ride I arrived around 7am in Prague.  This
