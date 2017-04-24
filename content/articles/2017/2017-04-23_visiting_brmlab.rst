@@ -36,16 +36,6 @@ The space features some of the usual stuff:
       :width: 10%
       :target: /images/tour_de_hackerspace/brmlab/brmlab_main_room.jpg
 
-* An electro lab
-
-    .. image:: /images/tour_de_hackerspace/brmlab/brmlab_electro_lab.jpg
-      :alt: brmlab electro lab
-      :align: center
-      :width: 10%
-      :target: /images/tour_de_hackerspace/brmlab/brmlab_electro_lab.jpg
-
-* A kitchen with a shop
-
 * A small server room
 
     .. image:: /images/tour_de_hackerspace/brmlab/brmlab_server_room.jpg
