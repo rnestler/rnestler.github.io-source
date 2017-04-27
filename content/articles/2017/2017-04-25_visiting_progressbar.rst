@@ -93,7 +93,7 @@ dinner and then he showed me a bit of Bratislava and the local beer culture.
 The next day I took a look at the city, which is rather small but pretty.  In
 the evening I attended the `scuttlebutt`_ workshop in Progressbar.  Scuttlebutt
 is some kind of distributed cryptographically signed message board, where every
-identity has a append only feed.  I shortly tested the `patchwork` scuttlebutt
+identity has a append only feed.  I shortly tested the `patchwork`_ scuttlebutt
 application.  For me it felt a bit like a distributed Twitter.
 
 Since a few of the guys there are also Rustaceans we also talked about that,
