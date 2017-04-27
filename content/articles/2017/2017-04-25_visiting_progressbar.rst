@@ -182,8 +182,11 @@ What really impressed me was there workshop, containing a decent CNC machine!
 
     Metalab CNC
 
-While getting rid of my processed Flora Power, I noticed the rather beautiful
-decorations they have in their restrooms!
+The space actually also includes a big main room, a kitchen, a lounge and some
+storage and server rooms.  Sadly I didn't take any pictures of them.
+
+While getting rid of my processed Flora Power after the tour, I noticed the
+rather beautiful decorations they have in their restrooms!
 
 .. figure:: /images/tour_de_hackerspace/metalab/metalab_toilet_decoration.jpg
     :alt: Metalab restroom decoration
