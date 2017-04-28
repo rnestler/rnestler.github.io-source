@@ -76,8 +76,12 @@ thing they need to do is to feed the Axolotl with worms every day.
 
     Axolotl
 
-If found this quite whole thing quite amazing!  Next there is their 3D-printer
-and electronics lab:
+They also have built a mechanism to avoid over feeding the Axolotl:  Whenever
+one feeds it, you also press a button which will then change its color from
+green to red.  This will remain like that until the next feeding time were it
+will turn green again.  I found this whole thing quite amazing!
+
+Next there is their 3D-printer and electronics lab:
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_3d_printer.jpg
     :alt: 3D printer and electronics lab
