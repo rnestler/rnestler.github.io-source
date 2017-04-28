@@ -139,10 +139,10 @@ The space is located centrally close to the "Rathaus".
     Metalab entry
 
 Just on arrival the space was actually empty (but open), because most of the
-members where having dinner on the outside.  Just moments after that, two
-members showed up and I ask theme for a tour.  But one can't get a tour without
-drinking some Mate!  So I buy a Flora Power from them after using their self
-built "Kassomat" to get some coins!
+members were having dinner on the outside.  Just moments after that, two
+members showed up and I asked them for a tour.  But one can't get a tour
+without drinking some Mate!  So I bought a Flora Power from them after using
+their self built "Kassomat" to get some coins!
 
 .. figure:: /images/tour_de_hackerspace/metalab/metalab_kassomat.jpg
     :alt: Metalab Kassomat
