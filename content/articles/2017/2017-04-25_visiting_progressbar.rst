@@ -3,7 +3,6 @@ Visiting Progressbar and Metalab
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting Progressbar
 
 Since I hit the bars a bit too hard with some of the guys and gals of brmlab, I
