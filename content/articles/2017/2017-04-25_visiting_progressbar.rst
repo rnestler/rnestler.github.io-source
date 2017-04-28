@@ -78,8 +78,8 @@ Of course the space also has some awesome decorations:
 
     `Progressbar`_ animated LED bar
 
-After the tour Andrew continued fixing his bike.  Afterwards we went to have
-dinner and then he showed me a bit of Bratislava and the local beer culture.
+As soon as Andrew finished fixing his bike, we went to have dinner.  He then
+continued to show me a bit of Bratislava and the local beer culture.
 
 .. figure:: /images/tour_de_hackerspace/progressbar/progressbar_outside.jpg
     :alt: Outside of Progressbar in the old town
