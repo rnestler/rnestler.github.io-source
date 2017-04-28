@@ -19,7 +19,7 @@ their website turned to "open".
 Finding their hackerspace was a lot harder then I thought!  They give you the
 street name and number on the `hackerspace wiki`_, but when I arrived at this
 street I found a three floor building with various flats.  I looked around
-there and asked a TODO KLEMPNER which was working there, if he knew about a
+there and asked a plumber which was working there, if he knew about a
 hackerspace.  He couldn't help me, but confirmed that I'm in the correct
 building according to the street name and number.  So I continued to look
 around, which led to some neighbours getting suspicious about me.  I had a
@@ -51,22 +51,22 @@ There is the classical main working room:
 
     Main working room
 
-In the main working room there is a small TODO: biotop? / biological experiment
+In the main working room there is a small biotope / biological experiment
 setup.
 
-.. figure:: /images/tour_de_hackerspace/budapest/budapest_biotop.jpg
-    :alt: TODO biotop?
+.. figure:: /images/tour_de_hackerspace/budapest/budapest_biotope.jpg
+    :alt: biotope in the main room
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    TODO biotop?
+    biotope in the main room
 
 Inside their lives an `Axolotl`_ which, so they told me, forms a stable
-ecosystem together with the plants.  Apparently the TODO AUSSCHEIDUNGEN from
-the Axolotl produce all the minerals the plants need to grow.  So they simply
-pump the water where the Axolotl resides to the top and let it flow down.  The
-only thing they need to do is to feed the Axolotl with worms every day.
+ecosystem together with the plants.  Apparently the excretion from the Axolotl
+produce all the minerals the plants need to grow.  So they simply pump the
+water where the Axolotl resides to the top and let it flow down.  The only
+thing they need to do is to feed the Axolotl with worms every day.
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_axolotl_0.jpg
     :alt: Axolotl
