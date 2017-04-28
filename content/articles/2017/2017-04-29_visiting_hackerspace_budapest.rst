@@ -8,9 +8,8 @@ Visiting Hackerspace Budapest
 
 When arriving in Budapest in the afternoon, I noticed that the `Hackerspace
 Budapest`_ was still closed, so I used the time to organize my flight to Kiev
-for `RustFest`_ and book a Hotel close to the airport.  As it turned out later
-this was a bit unnecessary, because I actually couldn't board the airplane
-because I forgot my passport.
+for `RustFest`_ and book a hotel close to the airport.  As it turned out this
+was a bit unnecessary, but more about that later.
 
 Since I couldn't figure out where the Hackerspace Budapest had its IRC channel
 (turns out it is #hsbp on open.ircnet.net), I just waited till the state on
@@ -62,7 +61,7 @@ setup.
 
     biotope in the main room
 
-Inside their lives an `Axolotl`_ which, so they told me, forms a stable
+Inside there lives an `Axolotl`_ which, so they told me, forms a stable
 ecosystem together with the plants.  Apparently the excretion from the Axolotl
 produce all the minerals the plants need to grow.  So they simply pump the
 water where the Axolotl resides to the top and let it flow down.  The only
@@ -126,8 +125,8 @@ amazing city.
 
 Since I wanted to travel only with cabin baggage to Kiev, I agreed with the
 space, that I can store my suitcase in their room and pick it up when I return
-from Kiev.  So I arrived in the evening to store my suitcase.  Since the only
-hacker present like my didn't have any dinner yet, we decided to cook.
+from Kiev.  So I arrived in the evening to store my suitcase.  Since I and the
+only hacker present didn't have any dinner yet, we decided to cook.
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_cooking.jpg
     :alt: Cooking in the hackerspace
@@ -145,13 +144,13 @@ which I noticed when I was already at the airport.  I tried to travel to Kiev
 with just my ID card, but when boarding they told me this isn't possible.
 
 So while writing this post I'm on a 18 hour train ride to Kiev which is still
-faster then taking the next flight which would be on Saturday afternoon.
+faster than taking the next flight which would be on Saturday afternoon.
 
 I really enjoyed my visit in the Hackerspace Budapest and will visit them
 shortly again when I return from Kiev on Tuesday.
 
 .. _`Hackerspace Budapest`: https://hsbp.org/
-.. _`RustFest`: https://2017.rustfest.eu
+.. _`RustFest`: http://2017.rustfest.eu
 .. _`hackerspace wiki`: https://wiki.hackerspaces.org/Hackerspace_Budapest
 .. _`Axolotl`: https://wikipedia.org/wiki/Axolotl
 .. _`Camp++`: https://hsbp.org/camppp7e1
