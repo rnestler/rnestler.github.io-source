@@ -11,8 +11,9 @@ for `RustFest`_ and book a hotel close to the airport.  As it turned out this
 was a bit unnecessary, but more about that later.
 
 Since I couldn't figure out where the Hackerspace Budapest had its IRC channel
-(turns out it is ``#hsbp`` on ``open.ircnet.net``), I just waited till the
-state on their website turned to "open".
+(turns out it is ``#hspbp`` on IRCnet. One can connect to it using
+``open.ircnet.net``), I just waited till the state on their website turned to
+"open".
 
 Finding their hackerspace was a lot harder then I thought!  They give you the
 street name and number on the `hackerspace wiki`_, but when I arrived at this
