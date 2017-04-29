@@ -50,16 +50,16 @@ There is the classical main working room:
 
     Main working room
 
-In the main working room there is a small biotope / biological experiment
-setup.
+In the main working room there is a small `biotope`_ / `green wall`_ /
+biological experiment setup.
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_biotope.jpg
-    :alt: biotope in the main room, called greenwall
+    :alt: biotope / green wall in the main room
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    biotope in the main room, called greenwall
+    biotope / green wall in the main room
 
 Inside there lives an `axolotl`_ (named Haxolotl) which, so they told me, forms
 a stable ecosystem together with the plants.  Apparently the excretion from the
@@ -152,5 +152,7 @@ shortly again when I return from Kiev on Tuesday.
 .. _`Hackerspace Budapest`: https://hsbp.org/
 .. _`RustFest`: http://2017.rustfest.eu
 .. _`hackerspace wiki`: https://wiki.hackerspaces.org/Hackerspace_Budapest
+.. _`biotope`: https://en.wikipedia.org/wiki/Biotope
+.. _`green wall`: https://en.wikipedia.org/wiki/Green_wall
 .. _`axolotl`: https://wikipedia.org/wiki/Axolotl
 .. _`Camp++`: https://hsbp.org/camppp7e1
