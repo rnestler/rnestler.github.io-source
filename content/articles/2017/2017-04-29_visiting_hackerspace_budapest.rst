@@ -54,18 +54,18 @@ In the main working room there is a small biotope / biological experiment
 setup.
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_biotope.jpg
-    :alt: biotope in the main room
+    :alt: biotope in the main room, called greenwall
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    biotope in the main room
+    biotope in the main room, called greenwall
 
-Inside there lives an `Axolotl`_ which, so they told me, forms a stable
-ecosystem together with the plants.  Apparently the excretion from the Axolotl
-produce all the minerals the plants need to grow.  So they simply pump the
-water where the Axolotl resides to the top and let it flow down.  The only
-thing they need to do is to feed the Axolotl with worms every day.
+Inside there lives an `axolotl`_ (named Haxolotl) which, so they told me, forms
+a stable ecosystem together with the plants.  Apparently the excretion from the
+axolotl produce all the minerals the plants need to grow.  So they simply pump
+the water where the axolotl resides to the top and let it flow down.  The only
+thing they need to do is to feed the axolotl with worms every day.
 
 .. figure:: /images/tour_de_hackerspace/budapest/budapest_axolotl_0.jpg
     :alt: Axolotl
@@ -75,7 +75,7 @@ thing they need to do is to feed the Axolotl with worms every day.
 
     Axolotl
 
-They also have built a mechanism to avoid over feeding the Axolotl:  Whenever
+They also have built a mechanism to avoid over feeding the axolotl:  Whenever
 one feeds it, you also press a button which will then change its color from
 green to red.  This will remain like that until the next feeding time were it
 will turn green again.  I found this whole thing quite amazing!
@@ -152,5 +152,5 @@ shortly again when I return from Kiev on Tuesday.
 .. _`Hackerspace Budapest`: https://hsbp.org/
 .. _`RustFest`: http://2017.rustfest.eu
 .. _`hackerspace wiki`: https://wiki.hackerspaces.org/Hackerspace_Budapest
-.. _`Axolotl`: https://wikipedia.org/wiki/Axolotl
+.. _`axolotl`: https://wikipedia.org/wiki/Axolotl
 .. _`Camp++`: https://hsbp.org/camppp7e1
