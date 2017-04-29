@@ -3,7 +3,6 @@ Visiting Hackerspace Budapest
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the Hackerspace Budapest
 
 When arriving in Budapest in the afternoon, I noticed that the `Hackerspace
