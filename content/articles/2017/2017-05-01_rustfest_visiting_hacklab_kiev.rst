@@ -6,10 +6,11 @@ RustFest and Visiting Hacklab Kyiv
 :status: draft
 :summary: Attending RustFest and visiting the Hacklab Kyiv
 
-I originally planed to visit `Hacklab Kyiv`_ on Friday evening.  But as you may
-heard about, I missed my flight due to my silliness.  So I was busy for most of
-Friday riding trains, trying to learn a bit of Ukrainian [#]_, discuss the
-validity of my ticket with the train crew, buying additional tickets and so on.
+I originally planed to fly to Kiev on Friday to visit `Hacklab Kyiv`_ and
+attend the RustFest workshops the next day.  But as you may heard about, I
+missed my flight due to my silliness.  So I was busy for most of Friday riding
+trains, trying to learn a bit of Ukrainian [#]_, discuss the validity of my
+ticket with the train crew, buying additional tickets and so on.
 
 The train ride was quite an adventure and I even got to ride the famous
 "platzkart" class night train.
