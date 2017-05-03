@@ -7,10 +7,10 @@ RustFest and Visiting Hacklab Kyiv
 :summary: Attending RustFest and visiting the Hacklab Kyiv
 
 I originally planed to fly to Kiev on Friday to visit `Hacklab Kyiv`_ and
-attend the RustFest workshops the next day.  But as you may heard about, I
-missed my flight due to my silliness.  So I was busy for most of Friday riding
-trains, trying to learn a bit of Ukrainian [#]_, discuss the validity of my
-ticket with the train crew, buying additional tickets and so on.
+attend the `RustFest`_ workshops the next day.  But as `you may heard about`_,
+I missed my flight due to my silliness.  So I was busy for most of Friday
+riding trains, trying to learn a bit of Ukrainian [#]_, discuss the validity of
+my ticket with the train crew, buying additional tickets and so on.
 
 The train ride was quite an adventure and I even got to ride the famous
 "platzkart" class night train.
@@ -29,12 +29,12 @@ around 11 in the morning (original plan was to arrive at 9) and met with
 `Dns2utf8`_ at the train station because I arranged to share a hotel room with
 him for the duration of RustFest.
 
-RustFest
---------
+`RustFest`_
+-----------
 
 After getting a long overdue shower, we went to the RustFest workshops.  I was
-really happy to meet `@andrewhobden`_ and `@NGC_3572`_, which did an amazing
-job as part of the `RustFest team`_!
+really happy to meet `@andrewhobden`_ and `@NGC_3572`_, which both did an
+amazing job as part of the `RustFest team`_!
 
 Despite being a few hours to late we could still attend the workshops.  I
 attended the `Exonum cryptocurrency workshop`_ instead of the web development I
@@ -52,7 +52,7 @@ out of nowhere and transfer funds.
 
     Screenshots from the webapp
 
-I found a bug in the implementation, where if one transfered funds from a
+I found a bug in the implementation, where if one transferred funds from a
 wallet to itself it would just increase the balance of this wallet!  The fix
 was as simple as adding
 
@@ -92,20 +92,28 @@ particularly enjoyed:
 * "Making a game in Rust" by `lislis`_ because I also tried to create a `game
   with Rust`_ (still not finished)
 
-I also met the brilliant author of the `Plushie Rustacean Pattern`_, `E
-Dunham`_.  She was impressed, that my girlfriend actually managed to create a
-Plushie Ferris from her description.
+During the day I had the pleasure to met the brilliant author of the `Plushie
+Rustacean Pattern`_, `E Dunham`_.  She was impressed, that my girlfriend
+actually managed to create a Plushie Ferris from her description.
 
-In the evening we had a great time during the afterparty, getting to know the
-community from this very relaxed and personal side was absolutly awesome!  I
-talked to quite a few poeple and learned lots of stuff.  I also talked to
+In the evening we had a great time during the after party.  Getting to know the
+community from this very relaxed and personal side was absolutely awesome!  I
+talked to quite a few people and learned lots of stuff.  I also talked to
 `Ashley Williams`_ about how to best teach kids programming and other stuff,
 since we `do that`_ in `our hackerspace`_.
 
+Just like last year, RustFest was just amazing!  It's so awesome to meet with
+this incredible community!  I'm really looking forward to the next RustFest
+this fall in `Zurich`_!
+
+Visiting Hacklab Kyiv
+---------------------
 
 .. [#] It always amazes me how much communication is possible with just `some sentences`_, lots of smiling, gestures and some pictures from a mobile phone.
 
 .. _`Hacklab Kyiv`: http://hacklab.kiev.ua/en/
+.. _`RustFest`: http://2017.rustfest.eu
+.. _`you may heard about`: https://twitter.com/rnstlr/status/857902876588486658
 .. _`search for pictures`: https://duckduckgo.com/?q=platzkart&atb=v10&iar=images&iax=1&ia=images
 .. _`Dns2utf8`: https://github.com/dns2utf8
 .. _`Exonum cryptocurrency workshop`: https://github.com/exonum/workshop
@@ -125,4 +133,5 @@ since we `do that`_ in `our hackerspace`_.
 .. _`Ashley Williams`: https://twitter.com/ag_dubs
 .. _`do that`: https://www.coredump.ch/2014/11/10/ferienpass-im-hackerspace/
 .. _`our hackerspace`: https://www.coredump.ch/2016/11/01/ferienpass-2016/
+.. _`Zurich`: https://rustfest.ch/
 
