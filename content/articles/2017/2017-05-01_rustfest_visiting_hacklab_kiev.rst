@@ -227,18 +227,23 @@ Additionally to that they feature:
 
 * A workshop
     .. image:: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
+        :target: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
         :width: 10%
 * A storage room
     .. image:: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
+        :target: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
         :width: 10%
 * Chemistry lab
     .. image:: /images/tour_de_hackerspace/kiev/kiev_chemistry.jpg
+        :target: /images/tour_de_hackerspace/kiev/kiev_chemistry.jpg
         :width: 10%
 * A soldering place
     .. image:: /images/tour_de_hackerspace/kiev/kiev_soldering.jpg
+        :target: /images/tour_de_hackerspace/kiev/kiev_soldering.jpg
         :width: 10%
 * A Tesla coil
     .. image:: /images/tour_de_hackerspace/kiev/kiev_tesla_coil.jpg
+        :target: /images/tour_de_hackerspace/kiev/kiev_tesla_coil.jpg
         :width: 10%
 
 In a room next to the hackerspace there is a studio for people working with
