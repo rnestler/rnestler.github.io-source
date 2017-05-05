@@ -78,6 +78,50 @@ taking a look at the city!
 
     View over parts of Kiev
 
+Here are some more images:
+
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_1.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_1.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_2.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_2.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_3.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_3.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_4.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_4.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_5.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_5.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_6.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_6.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_7.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_7.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_8.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_8.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_9.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_9.jpg
+    :width: 10%
+
+.. image:: /images/tour_de_hackerspace/kiev/city/kiev_city_10.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_10.jpg
+    :width: 10%
+
+
 You can find some more images `here`_.  In the evening we found a wonderful
 place for dinner and later met with some other Rustaceans to spend some time in
 a bar which `Steve Klabnik`_ suggested.
@@ -109,6 +153,128 @@ this fall in `Zurich`_!
 Visiting Hacklab Kyiv
 ---------------------
 
+The next day I met with Dmitriy, who I met at RustFest, to get lunch together.
+Since he speaks Russian it was quite easy for him to chat with the locals and
+find us a good place to get some Ukrainian food.
+
+I arranged with Anastasia from the Hacklab Kyiv that I could couch surf at
+their place.  So Dimitry and I split at this point so I could meet with
+Anastasia to drop off my luggage.  Anastasia and her partner Sasha are some of
+the most lovely people I've ever met!  They showed me around the city, helped
+me with public transport and it was always fun to hang out with them.  So I was
+happy I brought some Swiss chocolate with me which I could give them as a gift.
+
+After dropping my luggage we went to the hackerspace.
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_entry.jpg
+    :alt: Entry to the HackLab  Kyiv
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Entry to the HackLab  Kyiv
+
+Their hackerspace consist mainly of people which are interested in mechanical
+engineering and electronics.  So they are quite awesomely equipped with
+multiple CNC machines, 3D printers, compressors and lots of other tools.
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_cnc.jpg
+    :alt: CNC mill
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    CNC mill
+
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_big_cnc.jpg
+    :alt: Even bigger CNC mill
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Even bigger CNC mill
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_3d_printers.jpg
+    :alt: 3D printers
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    3D printers
+
+They created quite some awesome stuff with their 3D printer, including molds to
+create metallic stuff!
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_3d_prints.jpg
+    :alt: Awesome stuff they created with the 3D printers
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Awesome stuff they created with the 3D printers
+
+Like most hackerspaces they also feature a big main working room
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_main_room_2.jpg
+    :alt: Main room
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Main room
+
+Additionally to that the feature:
+
+* A workshop
+    .. image:: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
+        :width: 10%
+* A storage room
+    .. image:: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
+        :width: 10%
+* Chemistry lab
+    .. image:: /images/tour_de_hackerspace/kiev/kiev_chemistry.jpg
+        :width: 10%
+* A soldering place
+    .. image:: /images/tour_de_hackerspace/kiev/kiev_soldering.jpg
+        :width: 10%
+* A Tesla coil
+    .. image:: /images/tour_de_hackerspace/kiev/kiev_tesla_coil.jpg
+        :width: 10%
+
+In a room next to the hackerspace there is a studio for people working with
+ceramics.  They told me that they share some tools together and support each
+other.
+
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
+    :alt: Ceramics studio
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Ceramics studio
+
+After my visit some of the hackers went to get dinner with me. We spent quite
+some time discussing various things, amongst other the problem that a lot of
+spaces share: The founders are basically the only ones taking care of
+everything in regard to organizing the space.  We have this problem as well in
+our space and tried to solve it, by actively splitting responsibilities for
+various tasks.  An example is: For a long time `Danilo Bargen`_, our formal
+president, was responsible for every single IT infrastructure task at coredump.
+So I encouraged him to show me how to manage our servers, update services and
+so on.  This not only let to him having more times at hand, but also removed a
+single point of failure in our organization.
+
+The next day I spent some time trying to `repair my Fairphone`_.  At first it
+seemed to work perfectly, but after some time it did again refuse to charge.
+
+My flight back was on 16:45. This time I actually was able to catch it, but if
+you want to hear a funny story on how I almost missed it again, feel free to DM
+me on Twitter ;)
+
+I definitely enjoyed my stay in Kiev and my visit to Hacklab Kyiv.  But my
+travel continued back to Budapest and then further on to Szeged.
+
 .. [#] It always amazes me how much communication is possible with just `some sentences`_, lots of smiling, gestures and some pictures from a mobile phone.
 
 .. _`Hacklab Kyiv`: http://hacklab.kiev.ua/en/
@@ -134,4 +300,6 @@ Visiting Hacklab Kyiv
 .. _`do that`: https://www.coredump.ch/2014/11/10/ferienpass-im-hackerspace/
 .. _`our hackerspace`: https://www.coredump.ch/2016/11/01/ferienpass-2016/
 .. _`Zurich`: https://rustfest.ch/
+.. _`Danilo Bargen`: https://github.com/dbrgn
+.. _`repair my fairphone`: https://twitter.com/rnstlr/status/859351392871428097
 
