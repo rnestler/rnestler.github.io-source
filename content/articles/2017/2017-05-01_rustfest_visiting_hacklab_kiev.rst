@@ -121,10 +121,8 @@ Here are some more images:
     :target: /images/tour_de_hackerspace/kiev/city/kiev_city_10.jpg
     :width: 10%
 
-
-You can find some more images `here`_.  In the evening we found a wonderful
-place for dinner and later met with some other Rustaceans to spend some time in
-a bar which `Steve Klabnik`_ suggested.
+In the evening we found a wonderful place for dinner and later met with some
+other Rustaceans to spend some time in a bar which `Steve Klabnik`_ suggested.
 
 The next morning it was time for a quite diverse range of `talks`_.  I
 particularly enjoyed:
