@@ -156,7 +156,8 @@ Since he speaks Russian it was quite easy for him to chat with the locals and
 find us a good place to get some Ukrainian food.
 
 I arranged with Anastasia from the Hacklab Kyiv that I could couch surf at
-their place.  So Dimitry and I split at this point so I could meet with
+their place.  Since I wanted to meet with Anastasia to drop off my luggage, I
+agreed with Dimitry to split and see each other again in the hackerspace.
 Anastasia to drop off my luggage.  Anastasia and her partner Sasha are some of
 the most lovely people I've ever met!  They showed me around the city, helped
 me with public transport and it was always fun to hang out with them.  So I was
@@ -172,7 +173,7 @@ After dropping my luggage we went to the hackerspace.
 
     Entry to the HackLab  Kyiv
 
-Their hackerspace consist mainly of people which are interested in mechanical
+Their hackerspace consist mostly of people which are interested in mechanical
 engineering and electronics.  So they are quite awesomely equipped with
 multiple CNC machines, 3D printers, compressors and lots of other tools.
 
@@ -222,7 +223,7 @@ Like most hackerspaces they also feature a big main working room
 
     Main room
 
-Additionally to that the feature:
+Additionally to that they feature:
 
 * A workshop
     .. image:: /images/tour_de_hackerspace/kiev/kiev_workshop.jpg
@@ -241,8 +242,8 @@ Additionally to that the feature:
         :width: 10%
 
 In a room next to the hackerspace there is a studio for people working with
-ceramics.  They told me that they share some tools together and support each
-other.
+ceramics.  They told me that they share some tools together and generally
+support each other.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
     :alt: Ceramics studio
@@ -252,16 +253,18 @@ other.
 
     Ceramics studio
 
-After my visit some of the hackers went to get dinner with me. We spent quite
-some time discussing various things, amongst other the problem that a lot of
-spaces share: The founders are basically the only ones taking care of
-everything in regard to organizing the space.  We have this problem as well in
-our space and tried to solve it, by actively splitting responsibilities for
-various tasks.  An example is: For a long time `Danilo Bargen`_, our formal
-president, was responsible for every single IT infrastructure task at coredump.
-So I encouraged him to show me how to manage our servers, update services and
-so on.  This not only let to him having more times at hand, but also removed a
-single point of failure in our organization.
+After they had shown me around and I talked to most of them for some time, some
+of us went to get dinner together. We spent quite some time discussing various
+things, amongst other the problem that a lot of spaces share: The founders are
+basically the only ones taking care of everything in regard to organizing the
+space.
+
+We have this problem as well in our space and tried to solve it, by actively
+splitting responsibilities for various tasks.  An example is: For a long time
+`Danilo Bargen`_, our formal president, was responsible for every single IT
+infrastructure task at coredump.  So I encouraged him to show me how to manage
+our servers, update services and so on.  This not only let to him having more
+times at hand, but also removed a single point of failure in our organization.
 
 The next day I spent some time trying to `repair my Fairphone`_.  At first it
 seemed to work perfectly, but after some time it did again refuse to charge.
