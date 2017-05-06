@@ -34,8 +34,8 @@ him for the duration of RustFest.
 -----------
 
 After getting a long overdue shower, we went to the RustFest workshops.  I was
-really happy to meet `@andrewhobden`_ and `@NGC_3572`_, which both did an
-amazing job as part of the `RustFest team`_!
+really happy to meet `@andrewhobden`_ and `thomascovenant (@NGC_3572)`_, which
+both did an amazing job as part of the `RustFest team`_!
 
 Despite being a few hours to late we could still attend the workshops.  I
 attended the `Exonum cryptocurrency workshop`_ instead of the web development I
@@ -140,6 +140,15 @@ particularly enjoyed:
 During the day I had the pleasure to met the brilliant author of the `Plushie
 Rustacean Pattern`_, `E Dunham`_.  She was impressed, that my girlfriend
 actually managed to create a Plushie Ferris from her description.
+
+.. figure:: /images/tour_de_hackerspace/kiev/ferris.jpg
+    :target: https://twitter.com/NGC_3572/status/852546171440685056
+    :alt: My Plushie Ferris
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    My Plushie Ferris, picture taken by `thomascovenant (@NGC_3572)`
 
 In the evening we had a great time during the after party.  Getting to know the
 community from this very relaxed and personal side was absolutely awesome!  I
@@ -301,7 +310,7 @@ further on to Szeged.
 .. _`Dns2utf8`: https://github.com/dns2utf8
 .. _`Exonum cryptocurrency workshop`: https://github.com/exonum/workshop
 .. _`@andrewhobden`: https://twitter.com/andrewhobden
-.. _`@NGC_3572`: https://twitter.com/NGC_3572
+.. _`thomascovenant (@NGC_3572)`: https://twitter.com/NGC_3572
 .. _`RustFest team`: http://2017.rustfest.eu/about/
 .. _`here`: /images/tour_de_hackerspace/kiev/city/
 .. _`some sentences`: http://www.omniglot.com/language/phrases/ukrainian.php
