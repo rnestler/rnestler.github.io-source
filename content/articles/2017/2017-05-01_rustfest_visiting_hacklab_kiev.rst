@@ -148,7 +148,7 @@ actually managed to create a Plushie Ferris from her description.
     :width: 80%
     :figwidth: 80%
 
-    My Plushie Ferris, picture taken by `thomascovenant (@NGC_3572)`
+    My Plushie Ferris, picture taken by `thomascovenant (@NGC_3572)`_
 
 In the evening we had a great time during the after party.  Getting to know the
 community from this very relaxed and personal side was absolutely awesome!  I
