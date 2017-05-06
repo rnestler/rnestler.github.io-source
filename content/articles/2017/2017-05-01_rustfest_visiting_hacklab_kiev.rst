@@ -3,7 +3,6 @@ RustFest and Visiting Hacklab Kyiv
 
 :tags: tour de hackerspace, hackerspace, travelling, blockchain
 :language: en
-:status: draft
 :summary: Attending RustFest and visiting the Hacklab Kyiv
 
 I originally planed to fly to Kiev on Friday to visit `Hacklab Kyiv`_ and
