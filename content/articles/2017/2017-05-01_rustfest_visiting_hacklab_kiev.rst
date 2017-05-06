@@ -155,6 +155,15 @@ talked to quite a few people and learned lots of stuff.  I also talked to
 `Ashley Williams`_ about how to best teach kids programming and other stuff,
 since we `do that`_ in `our hackerspace`_.
 
+.. figure:: /images/tour_de_hackerspace/kiev/kiev_rustaceans.jpg
+    :target: https://twitter.com/NGC_3572/status/858773710869803008
+    :alt: Me and some other Rustaceans
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Me and some other Rustaceans
+
 Just like last year, RustFest was super amazing!  It's so awesome to meet this
 incredible community!  I'm really looking forward to the next RustFest this
 fall in `Zurich`_!
