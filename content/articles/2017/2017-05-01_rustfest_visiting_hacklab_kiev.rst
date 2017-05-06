@@ -133,7 +133,7 @@ particularly enjoyed:
 * "'Open' as in 'Welcoming': Facilitating Contributions" by `Manish
   Goregaokar`_ because it basically summarized what RustFest is all about.
 * "The Illustrated Adventure Survival Guide for New Rustaceans" by `Liz
-  Baillie`_ because it was super entertaining with cute images
+  Baillie`_ as it was super entertaining with cute images
 * "Making a game in Rust" by `lislis`_ because I also tried to create a `game
   with Rust`_ (still not finished)
 
@@ -147,9 +147,9 @@ talked to quite a few people and learned lots of stuff.  I also talked to
 `Ashley Williams`_ about how to best teach kids programming and other stuff,
 since we `do that`_ in `our hackerspace`_.
 
-Just like last year, RustFest was just amazing!  It's so awesome to meet with
-this incredible community!  I'm really looking forward to the next RustFest
-this fall in `Zurich`_!
+Just like last year, RustFest was super amazing!  It's so awesome to meet this
+incredible community!  I'm really looking forward to the next RustFest this
+fall in `Zurich`_!
 
 Visiting Hacklab Kyiv
 ---------------------
@@ -161,10 +161,10 @@ find us a good place to get some Ukrainian food.
 I arranged with Anastasia from the Hacklab Kyiv that I could couch surf at
 their place.  Since I wanted to meet with Anastasia to drop off my luggage, I
 agreed with Dimitry to split and see each other again in the hackerspace.
-Anastasia to drop off my luggage.  Anastasia and her partner Sasha are some of
-the most lovely people I've ever met!  They showed me around the city, helped
-me with public transport and it was always fun to hang out with them.  So I was
-happy I brought some Swiss chocolate with me which I could give them as a gift.
+Anastasia and her partner Sasha are some of the most lovely people I've ever
+met!  They showed me around the city, helped me with public transport and it
+was always fun to hang out with them.  So I was happy I brought some Swiss
+chocolate with me which I could give them as a gift.
 
 After dropping my luggage we went to the hackerspace.
 
@@ -178,8 +178,8 @@ After dropping my luggage we went to the hackerspace.
     Entry to the HackLab  Kyiv
 
 Their hackerspace consist mostly of people which are interested in mechanical
-engineering and electronics.  So they are quite awesomely equipped with
-multiple CNC machines, 3D printers, compressors and lots of other tools.
+engineering and electronics.  Due to that they own some awesome equippment such
+as multiple CNC machines, 3D printers, compressors and lots of other tools.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_cnc.jpg
     :target: /images/tour_de_hackerspace/kiev/kiev_cnc.jpg
@@ -256,8 +256,8 @@ Additionally to that they feature:
         :width: 10%
 
 In a room next to the hackerspace there is a studio for people working with
-ceramics.  They told me that they share some tools together and generally
-support each other.
+ceramics.  They told me that they share some tools and generally support each
+other.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
     :target: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
@@ -269,17 +269,17 @@ support each other.
     Ceramics studio
 
 After they had shown me around and I talked to most of them for some time, some
-of us went to get dinner together. We spent quite some time discussing various
-things, amongst other the problem that a lot of spaces share: The founders are
-basically the only ones taking care of everything in regard to organizing the
-space.
+of us went to get dinner together. We spent a considerable amount of time
+discussing various things, amongst others the problem that a lot of spaces
+share: The founders are basically the only ones taking care of everything in
+regard to organizing the space.
 
 We have this problem as well in our space and tried to solve it, by actively
 splitting responsibilities for various tasks.  An example is: For a long time
 `Danilo Bargen`_, our formal president, was responsible for every single IT
 infrastructure task at coredump.  So I encouraged him to show me how to manage
-our servers, update services and so on.  This not only let to him having more
-times at hand, but also removed a single point of failure in our organization.
+our servers, update services and so on.  This not only to let him have more
+time at hand, but also to remove a single point of failure in our organization.
 
 The next day I spent some time trying to `repair my Fairphone`_.  At first it
 seemed to work perfectly, but after some time it did again refuse to charge.
@@ -288,8 +288,9 @@ My flight back was on 16:45. This time I actually was able to catch it, but if
 you want to hear a funny story on how I almost missed it again, feel free to DM
 me on Twitter ;)
 
-I definitely enjoyed my stay in Kiev and my visit to Hacklab Kyiv.  But my
-travel continued back to Budapest and then further on to Szeged.
+I definitely enjoyed my stay in Kiev and my visit to Hacklab Kyiv.  I'd loved
+to stay a few more days, but my travel continued back to Budapest and then
+further on to Szeged.
 
 .. [#] It always amazes me how much communication is possible with just `some sentences`_, lots of smiling, gestures and some pictures from a mobile phone.
 
