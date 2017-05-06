@@ -16,6 +16,7 @@ The train ride was quite an adventure and I even got to ride the famous
 "platzkart" class night train.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_train_ride_3.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_train_ride_3.jpg
     :alt: The famous platzkart
     :align: center
     :width: 80%
@@ -45,6 +46,7 @@ implemented with a little node based web app to create new wallets, add funds
 out of nowhere and transfer funds.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_rustfest_crypto_3.png
+    :target: /images/tour_de_hackerspace/kiev/kiev_rustfest_crypto_3.png
     :alt: Screenshots from the webapp
     :align: center
     :width: 80%
@@ -71,6 +73,7 @@ After the workshop we formed a little group of Rustaceans and had a great time
 taking a look at the city!
 
 .. figure:: /images/tour_de_hackerspace/kiev/city/kiev_city_7.jpg
+    :target: /images/tour_de_hackerspace/kiev/city/kiev_city_7.jpg
     :alt: View over parts of Kiev
     :align: center
     :width: 80%
@@ -166,6 +169,7 @@ happy I brought some Swiss chocolate with me which I could give them as a gift.
 After dropping my luggage we went to the hackerspace.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_entry.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_entry.jpg
     :alt: Entry to the HackLab  Kyiv
     :align: center
     :width: 80%
@@ -178,6 +182,7 @@ engineering and electronics.  So they are quite awesomely equipped with
 multiple CNC machines, 3D printers, compressors and lots of other tools.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_cnc.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_cnc.jpg
     :alt: CNC mill
     :align: center
     :width: 80%
@@ -187,6 +192,7 @@ multiple CNC machines, 3D printers, compressors and lots of other tools.
 
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_big_cnc.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_big_cnc.jpg
     :alt: Even bigger CNC mill
     :align: center
     :width: 80%
@@ -195,6 +201,7 @@ multiple CNC machines, 3D printers, compressors and lots of other tools.
     Even bigger CNC mill
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_3d_printers.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_3d_printers.jpg
     :alt: 3D printers
     :align: center
     :width: 80%
@@ -206,6 +213,7 @@ They created quite some awesome stuff with their 3D printer, including molds to
 create metallic stuff!
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_3d_prints.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_3d_prints.jpg
     :alt: Awesome stuff they created with the 3D printers
     :align: center
     :width: 80%
@@ -216,6 +224,7 @@ create metallic stuff!
 Like most hackerspaces they also feature a big main working room
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_main_room_2.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_main_room_2.jpg
     :alt: Main room
     :align: center
     :width: 80%
@@ -251,6 +260,7 @@ ceramics.  They told me that they share some tools together and generally
 support each other.
 
 .. figure:: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
+    :target: /images/tour_de_hackerspace/kiev/kiev_ceramics_2.jpg
     :alt: Ceramics studio
     :align: center
     :width: 80%
