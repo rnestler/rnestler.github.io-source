@@ -3,7 +3,6 @@ Visiting Hackerspace Szeged
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the Hackerspace Szeged
 
 After returning from RustFest I spent one more day in Budapest to pick up my
