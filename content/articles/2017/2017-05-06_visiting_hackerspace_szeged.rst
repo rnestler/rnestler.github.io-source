@@ -29,16 +29,29 @@ planing ;)
 Anyway, I spent the next day taking a look at the wonderful city of Szeged,
 including a visit to the `"Witch Island" area`_ and the local zoo.
 
-.. figure:: images/tour_de_hackerspace/szeged/city/szeged_
-    :alt: Witch Island area
+.. figure:: images/tour_de_hackerspace/szeged/city/szeged_city_5.jpg
+    :alt: Szeged Cathedral
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Witch Island area
+    Szeged Cathedral
 
+In the evening I finally managed to pay a short visit to the Hackerspace
+Szeged.  They had a follow up of their lock picking workshop of the day before,
+so they explained me how to theoretically pick combination locks.
 
-* In the evening short visit in hackerspace
+.. figure:: /images/tour_de_hackerspace/szeged/szeged_lock.jpg
+    :target: /images/tour_de_hackerspace/szeged/szeged_lock.jpg
+    :alt: Combination lock for the workshop
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Combination lock for the workshop
+
+They are a young and rather small hackerspace, but active nevertheless!  The
+space consist of the classical main room:
 
 .. figure:: /images/tour_de_hackerspace/szeged/szeged_main_room_1.jpg
     :target: /images/tour_de_hackerspace/szeged/szeged_main_room_1.jpg
@@ -49,8 +62,25 @@ including a visit to the `"Witch Island" area`_ and the local zoo.
 
     Main room of the Hackerspace Szeged
 
-* dinner with Zsuzsa and Balint
-* next day travel to Rumania
+And a second smaller room which they mostly use as a storage room.
+
+.. figure:: /images/tour_de_hackerspace/szeged/szeged_second_room.jpg
+    :target: /images/tour_de_hackerspace/szeged/szeged_second_room.jpg
+    :alt: Main room of the Hackerspace Szeged
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Main room of the Hackerspace Szeged
+
+Since I already made plans to spend the rest of the evening with Zsuzsa and
+Balint, I spent just about 2 hours in their space.  I'd loved to hear more
+about the projects they are working on, so maybe I'll return in the future to
+visit them again.
+
+All in all I had an amazing stay in Szeged!  While I'd loved to stay a few more
+days,  I was really looking forward to visit Timişoara in Romania!
+
 
 .. _`Hackerspace Szeged`: http://www.hackerspace-szeged.org/
 .. _`"Witch Island" area`: https://en.wikipedia.org/wiki/Szeged_witch_trials
