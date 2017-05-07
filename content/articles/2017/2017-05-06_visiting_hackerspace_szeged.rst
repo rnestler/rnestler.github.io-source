@@ -29,7 +29,8 @@ planing ;)
 Anyway, I spent the next day taking a look at the wonderful city of Szeged,
 including a visit to the `"Witch Island" area`_ and the local zoo.
 
-.. figure:: images/tour_de_hackerspace/szeged/city/szeged_city_5.jpg
+.. figure:: /images/tour_de_hackerspace/szeged/city/szeged_city_5.jpg
+    :target: /images/tour_de_hackerspace/szeged/city/szeged_city_5.jpg
     :alt: Szeged Cathedral
     :align: center
     :width: 80%
