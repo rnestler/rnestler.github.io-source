@@ -142,8 +142,8 @@ it working:
 
     Amiga running a disk image with the floppy emulator
 
-When planning for my next destination I found out that traveling trough the
-Balkan area by train is harder then I thought.  Apparently the direct line from
+When planning for my next destination I found that traveling trough the Balkan
+area by train is harder then I thought.  Apparently the direct line from
 Timișoara to Belgrade got canceled some time ago (But was still present on the
 InterRail map).  So I tried to find a ride on BlaBlaCar which worked, but then
 the ride got cancelled some hours before the start because the driver had
