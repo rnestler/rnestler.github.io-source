@@ -21,7 +21,7 @@ we went directly to the space.
 
     Entry to the `Plan Zero`_ hackerspace
 
-He than gave me a short tour around the space, especially showing me their (or
+He then gave me a short tour around the space, especially showing me their (or
 mainly his) awesome collection of fully working retro computers.
 
 .. figure:: /images/tour_de_hackerspace/plan_zero/plan_zero_retro_3.jpg
@@ -142,8 +142,8 @@ it working:
 
     Amiga running a disk image with the floppy emulator
 
-When planning for my next destination I found that traveling trough the Balkan
-area by train is harder then I thought.  Apparently the direct line from
+When planning for my next destination I found that traveling through the Balkan
+area by train is harder than I thought.  Apparently the direct line from
 Timișoara to Belgrade got canceled some time ago (But was still present on the
 InterRail map).  So I tried to find a ride on BlaBlaCar which worked, but then
 the ride got cancelled some hours before the start because the driver had
