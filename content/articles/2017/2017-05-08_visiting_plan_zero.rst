@@ -34,9 +34,9 @@ mainly his) awesome collection of fully working retro computers.
     Retro computer collection
 
 Amongst others they own a C-64, an Amiga, Apple-II clones and a `Mac Classic`_.
-After the quick show around he just handed me the keys to the space, showed me
-the couch and explained me which doors to close over night.  I was impressed by
-this level of trust they showed me!
+After the quick show around he just handed me the keys for the space, showed me
+the couch and explained me which doors I need to close over night.  I was
+impressed by this level of trust they showed me!
 
 So after hacking a *tiny bit* on the C-64 while getting constant attention from
 the cat which lives in the space, I went to sleep around 3 in the morning.
@@ -52,11 +52,10 @@ the cat which lives in the space, I went to sleep around 3 in the morning.
 
 The next day I explored the city and met with Mihai in the afternoon.  We then
 took a quick look at the art atelier where his wife works.  After that we
-proceeded back to the hackerspace.
+returned to the hackerspace.
 
 Like almost every hackerspace Plan Zero also has a main room.  In contrast to
-other spaces its more about hanging out and eating in the main room than
-working.
+other spaces the main room is more about hanging out and eating than working.
 
 .. figure:: /images/tour_de_hackerspace/plan_zero/plan_zero_main_room.jpg
     :target: /images/tour_de_hackerspace/plan_zero/plan_zero_main_room.jpg
@@ -112,12 +111,12 @@ Also similar to other spaces there is a small storage room for random stuff.
 
     Storage room
 
-After I spent some time looking at the space, taking pictures and talking to
-the members, we ordered the classic hackers dinner (pizza).  While spending the
-night in the hackerspace was nice, It didn't have a shower, so I booked a
-hostel nearby.  Despite their website saying one can check in until 23:00, when
-we arrived there, nobody was present.  Luckily Claudiu and Andrei helped me
-contacting the owner of the hostel so he could let me in.
+After I spent some time taking a closer look at the space, taking pictures and
+talking to the members, we ordered the classic hackers dinner (pizza).  Although
+spending the night at the hackerspace was nice, it didn't have a shower, so I
+booked a hostel nearby.  Despite their website saying one can check in until
+23:00, when we arrived there, nobody was present.  Luckily Claudiu and Andrei
+helped me contacting the owner of the hostel so he could let me in.
 
 When everything related to the hostel was resolved, they showed me some of the
 cooler bars in Timișoara, where we had some beer, live music and a fun time
@@ -125,10 +124,9 @@ together!  What I learned that night was, that the Romanians party a bit harder
 then what I can handle, so I was glad when we ordered a taxi together to get
 back to my hostel at 5am ;)
 
-After sleeping into the day and having some late breakfast I returned to the
-hackerspace.
+After sleeping in and having some late breakfast I returned to the hackerspace.
 
-Mihai was also present in the space and tried to hook up an Amiga with a floppy
+Mihai was also at the space and tried to hook up an Amiga with a floppy
 emulator which allows to connect USB thumb drives with images on it.  After
 trying several USB drives and bricking one due to wrong wiring, he finally got
 it working:
@@ -142,8 +140,8 @@ it working:
 
     Amiga running a disk image with the floppy emulator
 
-When planning for my next destination I found that traveling through the Balkan
-area by train is harder than I thought.  Apparently the direct line from
+When planning for my next destination I realized that traveling through the
+Balkan area by train is harder than I thought.  Apparently the direct line from
 Timișoara to Belgrade got canceled some time ago (But was still present on the
 InterRail map).  So I tried to find a ride on BlaBlaCar which worked, but then
 the ride got cancelled some hours before the start because the driver had
