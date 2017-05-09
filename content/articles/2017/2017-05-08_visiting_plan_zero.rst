@@ -3,7 +3,6 @@ Visiting Plan Zero
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the `Plan Zero`_ hackerspace
 
 After a quite relaxing train ride, I arrived in Timișoara at 21:30.  After
