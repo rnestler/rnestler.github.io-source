@@ -41,7 +41,7 @@ So after hacking a *tiny bit* on the C-64 while getting constant attention from
 the cat which lives in the space, I went to sleep around 3 in the morning.
 
 .. figure:: /images/tour_de_hackerspace/plan_zero/plan_zero_c64.jpg
-    :target: /images/tour_de_hackerspace/plan_zero/plan_zero_c64.jpg
+    :target: /images/tour_de_hackerspace/plan_zero/plan_zero_c64.mp4
     :alt: Having fun with the C-64
     :align: center
     :width: 80%
