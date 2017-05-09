@@ -33,10 +33,10 @@ mainly his) awesome collection of fully working retro computers.
 
     Retro computer collection
 
-Amongst others they own a C-64, an Amiga and `Apple-II clones`_.  After the
-quick show around he just handed me the keys to the space, showed me the couch
-and explained me which doors to close over night.  I was impressed by this
-level of trust they showed me!
+Amongst others they own a C-64, an Amiga, Apple-II clones and a `Mac Classic`_.
+After the quick show around he just handed me the keys to the space, showed me
+the couch and explained me which doors to close over night.  I was impressed by
+this level of trust they showed me!
 
 So after hacking a *tiny bit* on the C-64 while getting constant attention from
 the cat which lives in the space, I went to sleep around 3 in the morning.
@@ -87,8 +87,8 @@ Next there is a room with electronics equipment 3D printers and work places.
 
     3D printers
 
-While one 3D printer is fully operational, one of the members is building his
-own printer next to it.
+While three 3D printers are fully operational, one of the members is building a
+forth printer next to them.
 
 The space is also well equipped for most mechanic needs, with a nice workshop.
 
@@ -152,4 +152,4 @@ train ride via Budapest.  Well, this at least gave me some time to write this
 blog post ;)
 
 .. _`Plan Zero`: http://planzero.ro
-.. _`Apple-II clones`: /images/tour_de_hackerspace/plan_zero/plan_zero_retro_2.jpg
+.. _`Mac Classic`: /images/tour_de_hackerspace/plan_zero/plan_zero_retro_2.jpg
