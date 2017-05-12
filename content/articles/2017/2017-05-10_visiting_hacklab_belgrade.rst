@@ -3,7 +3,6 @@ Visiting Hacklab Belgrade
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting the `Hacklab Belgrade`_.
 
 After the quite long train ride from Timișoara to Belgrade via Budapest, I
