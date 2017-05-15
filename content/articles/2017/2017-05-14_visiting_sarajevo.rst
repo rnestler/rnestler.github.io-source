@@ -107,6 +107,12 @@ to visit his workplace in Sarajevo.  He works for the `Organized Crime And
 Corruption Reporting Project`_ (OCCRP), which does a great job supporting
 investigative journalism all over the world.
 
+Czesiek self descriped his work as follows:
+
+    I'm a hacker at OCCRP, I'm in charge of developing editorial pipeline
+    (newsroom software geared towards investigative jounalist teams; we plan to
+    opensource it after internal testing) and digital security.
+
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :alt: Door to Czesieks office in the OCCRP place
@@ -119,14 +125,12 @@ investigative journalism all over the world.
 Since I wanted to avoid taking pictures of any sensitive material I just took a
 picture of the door to the office ;)
 
-TODO more information about OCCRP!
-
-I then proceeded to verify that the hackerspace really doesn't exist.  When
+I then proceeded to verify that the hackerspace in Sarajevo exist or not.  When
 arriving at the place it's supposed to be I found an interesting technology hub
-called `HUB387`_.  Nobody there heard about a hackerspace there, so I changed
-the wiki entry to reflect that.  Because I was already there, I rented a desk
-at the `NEST71`_ coworking space for 10€ and spent some time working on this
-blog post.
+called `HUB387`_.  Nobody there heard about a hackerspace, so I changed the
+wiki entry to reflect that.  Because I was already there and had no othe plans,
+I rented a desk at the `NEST71`_ coworking space for 10€ and spent some time
+working on this blog post.
 
 In the evening there was a party at Czesieks house and I had the pleasure to
 meet more of the OCCRP crew and other interesting people.  I enjoyed the fact,
