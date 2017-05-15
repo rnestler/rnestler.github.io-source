@@ -107,12 +107,6 @@ to visit his workplace in Sarajevo.  He works for the `Organized Crime And
 Corruption Reporting Project`_ (OCCRP), which does a great job supporting
 investigative journalism all over the world.
 
-Czesiek self descriped his work as follows:
-
-    I'm a hacker at OCCRP, I'm in charge of developing editorial pipeline
-    (newsroom software geared towards investigative jounalist teams; we plan to
-    opensource it after internal testing) and digital security.
-
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :alt: Door to Czesieks office in the OCCRP place
@@ -125,34 +119,64 @@ Czesiek self descriped his work as follows:
 Since I wanted to avoid taking pictures of any sensitive material I just took a
 picture of the door to the office ;)
 
-I then proceeded to verify that the hackerspace in Sarajevo exist or not.  When
-arriving at the place it's supposed to be I found an interesting technology hub
-called `HUB387`_.  Nobody there heard about a hackerspace, so I changed the
-wiki entry to reflect that.  Because I was already there and had no othe plans,
-I rented a desk at the `NEST71`_ coworking space for 10€ and spent some time
-working on this blog post.
+Czesiek self described his work as follows:
+
+    I'm a hacker at OCCRP, I'm in charge of developing editorial pipeline
+    (newsroom software geared towards investigative journalist teams; we plan
+    to opensource it after internal testing) and digital security.
+
+After my short visit, I proceeded to verify if the hackerspace in Sarajevo
+exists or not.  When arriving at the place it's supposed to be I found an
+interesting technology hub called `HUB387`_.  Nobody there heard about a
+hackerspace, so I changed the wiki entry to reflect that.  Because I was
+already there and had no other plans, I rented a desk at the `NEST71`_
+coworking space for 10€ and spent some time working on this blog post.
 
 In the evening there was a party at Czesieks house and I had the pleasure to
 meet more of the OCCRP crew and other interesting people.  I enjoyed the fact,
 that we consisted of people from 7 different nations (Polish, French, Bosnian,
 Mexican, American, British and Swiss)!
 
-After having some slight trouble getting up on Saturday morning, I attended a
-protest against violence against LGBT people.  It was a very peaceful and
-somewhat cheerful event.  After that we went for some coffee and I had the
-opportunity to meet interesting people including a German guy who works for the
-European embassy.
+Despite of having some slight trouble getting up on Saturday morning, Czesiek
+and I attended a `protest`_ against violence against LGBT people.  It was a
+very peaceful and somewhat cheerful event.
+
+.. figure:: http://static.ba.n1info.com/Picture/112125/jpeg/Sequence-01.Still011.jpg
+    :target: http://static.ba.n1info.com/Picture/112125/jpeg/Sequence-01.Still011.jpg
+    :alt: Protesters, source: http://ba.n1info.com/a153795/Vijesti/Vijesti/Odrzan-protest-LGBTI-osoba.html
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Protesters, source: http://ba.n1info.com/a153795/Vijesti/Vijesti/Odrzan-protest-LGBTI-osoba.html
+
+After the protest we went for some coffee and I had the opportunity to meet
+interesting people including a German guy who works for the European embassy.
 
 In the afternoon I visited the `War Childhood Museum`_.  It was a very heart
-touching experience of reading the stories of how children were experiencing
-the war.
+touching experience, reading the stories of how children were experiencing the
+war.  Also still after more than 20 years, marks of the war are still visible
+in Sarajevo.
 
-* Party again
+In the evening we went to the after party of the protest and again I met some
+amazing people amongst others Emina Bošnjak from the `Sarajevo Open Centre`_.
 
-Sunday
+The next day I had a BlaBalCar booked for the early afternoon, so we just went
+to TODO name to enjoy the view and walk the way down.
 
-* Visiting mountain
-* BlaBlaCar to Croatia
+.. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
+    :target: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
+    :alt: View from ....
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    View from ....
+
+I really loved my stay in Sarajevo.  Czesiek is an awesome host and I can
+highly recommend to stay with him if you are in Sarajevo ;)
+
+However, next stop: Zagreb, Croatia!
 
 .. [#] This was my first BlaBlaCar ride. I can really recommend to travel with it!
 
@@ -164,4 +188,6 @@ Sunday
 .. _`Organized Crime And Corruption Reporting Project`: https://www.occrp.org/index.php
 .. _`HUB387`: http://www.hub387.com/
 .. _`NEST71`: http://www.nest71.com/
+.. _`protest`: https://www.mreza-mira.net/vijesti/razno/lgbti-zajednica-odrzala-lekciju-vlastima/
 .. _`War Childhood Museum`: http://museum.warchildhood.com/
+.. _`Sarajevo Open Centre`: http://soc.ba/en/about-us/team/
