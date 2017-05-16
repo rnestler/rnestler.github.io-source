@@ -21,9 +21,10 @@ suddenly the whole landscape looks different, with lots of hills and forests.
     View during a break on the car ride
 
 We then arrived in the early afternoon in Sarajevo.  Quite early during my
-"Tour de Hackerspace" `Czesiek`_ offered `via Twitter`_ to show me around
-Sarajevo when I get there for a visit, which I found quite amazing!  So I
-arranged with him to couch surf at his place and meet him there in the evening.
+"Tour de Hackerspace" `Czesiek`_, a close friend of `hoverbear`_ and
+`thomascovenant`_, offered `via Twitter`_ to show me around Sarajevo when I get
+there for a visit, which I found quite amazing!  So I arranged with him to
+couch surf at his place and meet him there in the evening.
 
 Since I had the whole afternoon to explore the city I decided to store my
 luggage in a nearby hostel and wander around the old town of the city.  I had
@@ -161,17 +162,17 @@ in Sarajevo.
 In the evening we went to the after party of the protest and again I met some
 amazing people amongst others Emina Bošnjak from the `Sarajevo Open Centre`_.
 
-The next day I had a BlaBalCar booked for the early afternoon, so we just went
-to TODO name to enjoy the view and walk the way down.
+The next day I had a BlaBlaCar booked for the early afternoon, so we had bearly
+enough time to go up to `Trebević`_, enjoy the view and walk the way down.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
-    :alt: View from ....
+    :alt: View from Trebević
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    View from ....
+    View from Trebević
 
 I really loved my stay in Sarajevo.  Czesiek is an awesome host and I can
 highly recommend to stay with him if you are in Sarajevo ;)
@@ -181,6 +182,8 @@ However, next stop: Zagreb, Croatia!
 .. [#] This was my first BlaBlaCar ride. I can really recommend to travel with it!
 
 .. _`Czesiek`: https://twitter.com/czesiekhaker
+.. _`hoverbear`: https://twitter.com/andrewhobden
+.. _`thomascovenant`: https://twitter.com/NGC_3572
 .. _`via Twitter`: https://twitter.com/czesiekhaker/status/852902273189634049
 .. _`Bosnian coffee`: https://duckduckgo.com/?q=bosnian+coffee&yeg=B&iax=1&ia=images
 .. _`Bijela tabija castle`: http://www.openstreetmap.org/way/23723340
@@ -191,3 +194,4 @@ However, next stop: Zagreb, Croatia!
 .. _`protest`: https://www.mreza-mira.net/vijesti/razno/lgbti-zajednica-odrzala-lekciju-vlastima/
 .. _`War Childhood Museum`: http://museum.warchildhood.com/
 .. _`Sarajevo Open Centre`: http://soc.ba/en/about-us/team/
+.. _`Trebević`: https://en.wikipedia.org/wiki/Trebević
