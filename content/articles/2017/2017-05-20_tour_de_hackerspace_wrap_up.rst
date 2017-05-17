@@ -25,8 +25,8 @@ Tour de Hackerspace Wrap Up
      * When more then 10 members -> Make it a formal oranization
    * Communication
      * Public
-       * Have at least an email address where people can contact the space
-       * IRC is great for visitors because its easy and doesn't require a special user acount
+     * Have at least an email address where people can contact the space
+     * IRC is great for visitors because its easy and doesn't require a special user acount
      * Private
-       * IF IRC is not actively used bridge it to some other medium (bots)
+     * IF IRC is not actively used bridge it to some other medium (bots)
 
