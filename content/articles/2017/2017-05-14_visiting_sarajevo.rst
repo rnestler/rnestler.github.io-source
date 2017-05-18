@@ -38,8 +38,8 @@ some of the `Bosnian coffee`_ and tried the Ćevapi for late lunch.
 
     Sarajevo old town
 
-At some point during the afternoon I noticed, that I forgot my Ferris plushie
-in the BlaBlaCar!  So I contacted the driver again and we arranged to meet the
+At some point during the afternoon I noticed that I forgot my Ferris plushie in
+the BlaBlaCar!  So I contacted the driver again and we arranged to meet the
 next day in the morning.
 
 In the evening I met with Czesiek and after placing my luggage in his flat, we
