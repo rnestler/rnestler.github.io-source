@@ -17,23 +17,65 @@ charm of the place.
 
 PICTURE
 
-Since Vedran was in the middle of a meeting,
+Since Vedran was in the middle of a meeting, I just sat down and started to
+talk to a few members.  One girl brought some cookies made with cricket flour.
+Since we did a similar things with a few of the coredump members some months
+ago [#]_, this immediately sparked an interesting discussion about meat
+production, insect growing and that strangely no company shares *how* to grow
+insects by yourself.  Also quite a few members were interested in Rust, so we
+decided that I will give a short introduction to Rust on Tuesday.
 
-* Talking to people
-* Eating Bug / cricket cookies
-* Short showing around
-* Meeting Dina
+When Vedran had finished his meeting he gave me a quick show around.  The
+hackerspace itself consists of a single room, containing an electronics
+workspace, some tables for laptop work, couches and a bunch of other stuff.
 
-Monday
+PICTURE
 
-* Sleep in...
-* Showing around town
-* Hanging in the space
-* Going for beer
+But since there are various other NGOs and artist in the same complex, there
+was plenty of stuff to see! [#]_
 
-* Problem with politics https://www.unodc.org/documents/data-and-analysis/statistics/corruption/Croatia_corruption_report_web_version.pdf
-* Corruption of the Major http://www.croatiaweek.com/zagreb-mayor-arrested-for-corruption/
-* Economy collapsing: http://www.dw.com/en/croatias-agrokor-business-empire-too-big-to-fail/a-38757333
+PICTURE
+
+Sadly I didn't take pictures of every room.  In the "headquarter" of the
+building I had the pleasure to meet Dina.  She took up the challenge to manage
+this quite chaotic space two weeks ago.  Since the government announced them a
+week ago, that they will need to move out [#]_.  Due to this the week was
+rather stressful for most of the people living or working in Medika.  On the
+bright side this also forced them to closely work together, which strengthened
+their the Medika community as a whole.
+
+PICTURE "headquarter"
+
+I agreed with Vedran to spend my night in the hacklab, so he handed me the keys
+[#]_ and showed me where toilet, shower are located.  They even would have
+provided me with a sleeping bag, shampoo and everything else, since I forgot to
+tell them that I have all that stuff with me!  I found this level of
+hospitality quite amazing and welcoming!
+
+The next day Vedran showed my around the old town of the city in the afternoon.
+
+PICTURE old town
+
+When we got a coffee, we started to talk about the problems they have with the
+government.  He told me it is probably related to the elections which will be
+soon and the major just needs to get some attention.  He also told me that the
+major is charged with `corruption`_.  I was kind of shocked, that a major can
+be charged because of corruption, but doesn't need to resign because of that.
+According to an `UN report`_ corruption and bribery is very common in Croatia,
+so maybe the population just got used to it.
+
+The rest of the afternoon I spent in the hackerspace itself, writing my blog
+posts, preparing for the Rust workshop and talking to the members which were
+present.  Later in the evening I went to get some beers with Vedran in a nice
+bar close to Medika.  I met quite an interesting guy there, who explained me
+the history of Croatia, its cultural inheritance and how lots of it got
+destroyed during the time of the Austrian Hungarian empire and the `Ottoman
+wars`_.  We also talked about the difficult economic situation in Croatia
+including the recent `collapse of Agrokor`_, Croatias biggest business empire,
+which has the potential to bring the whole country down.
+
+* Arts projects
+  * http://pivilion.net/
 
 Tuesday
 * Day of "move out"
@@ -55,6 +97,14 @@ Wedensday
     View during a break on the car ride
 
 .. [#] Medika is actually the name of a company which was located there some time ago
+.. [#] We ordered stuff from https://insekten-shop.ch/ and tried out different recipies
+.. [#] You can get an overview of organisations / projects here: http://attack.hr/projekti/?lang=en
+.. [#] http://attack.hr/medika-ostaje/?lang=en
+.. [#] I was again impressed by the level of trust!
 
 .. _`hacklab01`: https://hacklab01.org/
 .. _`AKC Attack`: http://attack.hr/
+.. _`corruption`: http://www.croatiaweek.com/zagreb-mayor-arrested-for-corruption/
+.. _`UN report`: https://www.unodc.org/documents/data-and-analysis/statistics/corruption/Croatia_corruption_report_web_version.pdf
+.. _`Ottoman wars`: https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe
+.. _`collapse of Agrokor`: http://www.dw.com/en/croatias-agrokor-business-empire-too-big-to-fail/a-38757333
