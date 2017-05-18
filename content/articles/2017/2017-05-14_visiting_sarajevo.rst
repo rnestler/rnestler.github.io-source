@@ -97,7 +97,7 @@ streets and alleyways.
     View over Sarajevo
 
 In the evening we had again lots of fun, this time visiting a sisha bar /
-hookah lounge where there was some live music.  In the mean time I found out,
+hookah lounge where there was some live music.  In the meantime I found out,
 that the hackerspace which is mentioned in the hackerspace wiki probably
 doesn't exist.  So during the evening I talked with Czesiek and his friends
 about founding one in Sarajevo.
