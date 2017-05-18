@@ -3,7 +3,6 @@ Visiting Sarajevo
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting Sarajevo
 
 My BlaBlaCar ride [#]_ to Sarajevo was a very pleasant experience.  My driver
