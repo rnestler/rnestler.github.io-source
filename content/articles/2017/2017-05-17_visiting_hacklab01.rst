@@ -156,6 +156,7 @@ Tuesday
 * Party independently organized by a girl via Facebook
 * Nice weather -> Botanics garden
 * Workshop on Rust
+* Short visit to RADIONA 
 * Party
 
 Wedensday
@@ -174,3 +175,4 @@ Wedensday
 .. _`UN report`: https://www.unodc.org/documents/data-and-analysis/statistics/corruption/Croatia_corruption_report_web_version.pdf
 .. _`Ottoman wars`: https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe
 .. _`collapse of Agrokor`: http://www.dw.com/en/croatias-agrokor-business-empire-too-big-to-fail/a-38757333
+.. _`RADIONA`: http://radiona.org/
