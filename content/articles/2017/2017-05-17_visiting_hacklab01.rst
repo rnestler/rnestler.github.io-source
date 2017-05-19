@@ -66,8 +66,8 @@ was plenty of stuff to see! [#]_
 
     Hallway in Medika
 
-Since some people actually live in Medika, there rooms, including showers and
-toilets are separated from the rest of the building.
+The rooms for residents of Medika, including showers and toilets, are separated
+from the rest of the building.
 
 .. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_1.jpg
     :target: /images/tour_de_hackerspace/hacklab01/hacklab01_1.jpg
@@ -78,14 +78,13 @@ toilets are separated from the rest of the building.
 
     Door to the living part of Medika
 
-
 Sadly I didn't take pictures of every room.  In the "headquarter" of the
 building I had the pleasure to meet Dina.  She took up the challenge to manage
 this quite chaotic space two weeks ago.  The government announced them a week
 ago, that they will need to move out [#]_.  Due to this the week was rather
-stressful for most of the people living or working in Medika.  On the bright
-side this also forced them to closely work together, which strengthened their
-the Medika community as a whole.
+stressful for her and most of the people living or working in Medika.  On the
+bright side this also forced them to closely work together, which strengthened
+their the Medika community as a whole.
 
 .. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_2.jpg
     :target: /images/tour_de_hackerspace/hacklab01/hacklab01_2.jpg
@@ -111,12 +110,12 @@ The next day Vedran showed my around the old town of the city in the afternoon.
 
 .. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_city_6.jpg
     :target: /images/tour_de_hackerspace/hacklab01/hacklab01_city_6.jpg
-    :alt: Picture of ???
+    :alt:  The national theatre
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Picture of ???
+    The national theatre
 
 When we got a coffee, we started to talk about the problems they have with the
 government.  He told me it is probably related to the elections which will be
