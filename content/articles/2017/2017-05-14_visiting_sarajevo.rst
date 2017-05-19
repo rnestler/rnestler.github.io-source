@@ -38,13 +38,13 @@ some of the `Bosnian coffee`_ and tried the Ćevapi for late lunch.
 
     Sarajevo old town
 
-At some point during the afternoon I noticed, that I forgot my Ferris plushie
+At some point during the afternoon, I noticed that I forgot my Ferris plushie
 in the BlaBlaCar!  So I contacted the driver again and we arranged to meet the
 next day in the morning.
 
 In the evening I met with Czesiek and after placing my luggage in his flat, we
 proceeded to go to a micro brewery to get some of the local beer.  Afterwards
-we went to a few other places and at one place ended up meeting some Australian
+we went to a few other places and at one of them ended up meeting some Australian
 guys I've seen earlier in the afternoon in the old town.  I always love meeting
 other people who are travelling because they are most of the time easy going
 and have some interesting stories to tell.
@@ -64,13 +64,13 @@ meeting other hackers during my trip I feel connected to them instantly like we
 were knowing each others for years.
 
 Since the weather was just too nice, I spent the next day visiting the `Bijela
-tabija castle`_ where one has a nice view over the city.  During my way up I
+Tabija castle`_ where one has a nice view over the city.  During my way up I
 also enjoyed exploring this part of the city which consist of many small
 streets and alleyways.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_city_8.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_city_8.jpg
-    :alt: On my way to Bijela tabija
+    :alt: On my way to Bijela Tabija
     :align: center
     :width: 80%
     :figwidth: 80%
@@ -79,7 +79,7 @@ streets and alleyways.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_city_14.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_city_14.jpg
-    :alt: Ruins of the Bijela tabija castle
+    :alt: Ruins of the Bijela Tabija castle
     :align: center
     :width: 80%
     :figwidth: 80%
@@ -98,12 +98,12 @@ streets and alleyways.
 
 In the evening we had again lots of fun, this time visiting a sisha bar /
 hookah lounge where there was some live music.  In the mean time I found out,
-that the hackerspace which is mentioned in the hackerspace wiki probably
+that the hackerspace which is mentioned in the HackerspaceWiki probably
 doesn't exist.  So during the evening I talked with Czesiek and his friends
 about founding one in Sarajevo.
 
 The next day I slept in and then met with Czesiek for lunch and then proceeded
-to visit his workplace in Sarajevo.  He works for the `Organized Crime And
+to visit his workplace in Sarajevo.  He works for the `Organized Crime and
 Corruption Reporting Project`_ (OCCRP), which does a great job supporting
 investigative journalism all over the world.
 
@@ -130,15 +130,15 @@ exists or not.  When arriving at the place it's supposed to be I found an
 interesting technology hub called `HUB387`_.  Nobody there heard about a
 hackerspace, so I changed the wiki entry to reflect that.  Because I was
 already there and had no other plans, I rented a desk at the `NEST71`_
-coworking space for 10€ and spent some time working on this blog post.
+coworking space for €10 and spent some time working on this blog post.
 
 In the evening there was a party at Czesiek's house and I had the pleasure to
-meet more of the OCCRP crew and other interesting people.  I enjoyed the fact,
-that we consisted of people from 7 different nations (Polish, French, Bosnian,
-Mexican, American, British and Swiss)!
+meet more of the OCCRP crew and other interesting people.  I enjoyed the fact
+that our group consisted of people from 7 different nations (Polish, French,
+Bosnian, Mexican, American, British and Swiss)!
 
-Despite of having some slight trouble getting up on Saturday morning, Czesiek
-and I attended a `protest`_ against violence against LGBT people.  It was a
+Despite having some slight trouble getting up on Saturday morning, Czesiek
+and I attended a `protest`_ against violence towards LGBT people.  It was a
 very peaceful and somewhat cheerful event.
 
 .. figure:: http://static.ba.n1info.com/Picture/112125/jpeg/Sequence-01.Still011.jpg
@@ -155,11 +155,11 @@ interesting people including a German guy who works for the European embassy.
 
 In the afternoon I visited the `War Childhood Museum`_.  It was a very heart
 touching experience, reading the stories of how children were experiencing the
-war.  Also still after more than 20 years, marks of the war are still visible
-in Sarajevo.
+war.  Also, after more than 20 years, marks of the war are still visible in
+Sarajevo.
 
 In the evening we went to the after party of the protest and again I met some
-amazing people amongst others Emina Bošnjak from the `Sarajevo Open Centre`_.
+amazing people, amongst others Emina Bošnjak from the `Sarajevo Open Centre`_.
 
 The next day I had a BlaBalCar booked for the early afternoon, so we just went
 to TODO name to enjoy the view and walk the way down.
@@ -183,9 +183,9 @@ However, next stop: Zagreb, Croatia!
 .. _`Czesiek`: https://twitter.com/czesiekhaker
 .. _`via Twitter`: https://twitter.com/czesiekhaker/status/852902273189634049
 .. _`Bosnian coffee`: https://duckduckgo.com/?q=bosnian+coffee&yeg=B&iax=1&ia=images
-.. _`Bijela tabija castle`: http://www.openstreetmap.org/way/23723340
-.. _`hackerspace wiki`: https://wiki.hackerspaces.org/Hackerspace_Sarajevo
-.. _`Organized Crime And Corruption Reporting Project`: https://www.occrp.org/index.php
+.. _`Bijela Tabija castle`: http://www.openstreetmap.org/way/23723340
+.. _`HackerspaceWiki`: https://wiki.hackerspaces.org/Hackerspace_Sarajevo
+.. _`Organized Crime and Corruption Reporting Project`: https://www.occrp.org/index.php
 .. _`HUB387`: http://www.hub387.com/
 .. _`NEST71`: http://www.nest71.com/
 .. _`protest`: https://www.mreza-mira.net/vijesti/razno/lgbti-zajednica-odrzala-lekciju-vlastima/
