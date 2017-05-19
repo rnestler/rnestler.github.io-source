@@ -60,8 +60,8 @@ and have some interesting stories to tell.
 
 We ended up having lots of fun this night which lead to me having a very hard
 time getting up at 8:00 to retrieve my Ferris.  But it amazed me how when
-meeting other hackers during my trip I feel connected to them instantly like we
-were knowing each others for years.
+meeting other hackers during my trip I feel connected to them instantly as if we
+knew each others for years.
 
 Since the weather was just too nice, I spent the next day visiting the `Bijela
 Tabija castle`_ where one has a nice view over the city.  During my way up I
@@ -75,7 +75,7 @@ streets and alleyways.
     :width: 80%
     :figwidth: 80%
 
-    On my way to Bijela tabija
+    On my way to Bijela Tabija
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_city_14.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_city_14.jpg
@@ -84,7 +84,7 @@ streets and alleyways.
     :width: 80%
     :figwidth: 80%
 
-    Ruins of the Bijela tabija castle
+    Ruins of the Bijela Tabija castle
 
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_city_17.jpg
@@ -96,13 +96,13 @@ streets and alleyways.
 
     View over Sarajevo
 
-In the evening we had again lots of fun, this time visiting a sisha bar /
+In the evening we had again lots of fun, this time visiting a shisha bar /
 hookah lounge where there was some live music.  In the mean time I found out,
-that the hackerspace which is mentioned in the HackerspaceWiki probably
+that the hackerspace which is mentioned on the HackerspaceWiki probably
 doesn't exist.  So during the evening I talked with czesiek and his friends
 about founding one in Sarajevo.
 
-The next day I slept in and then met with czesiek for lunch and then proceeded
+The next day I slept in, met with czesiek for lunch and then proceeded
 to visit his workplace in Sarajevo.  He works for the `Organized Crime and
 Corruption Reporting Project`_ (OCCRP), which does a great job supporting
 investigative journalism all over the world.
@@ -117,9 +117,9 @@ investigative journalism all over the world.
     Door to czesiek's office in the OCCRP place
 
 Since I wanted to avoid taking pictures of any sensitive material I just took a
-picture of the door to the office ;)
+picture of the door to the office. ;)
 
-czesiek self described his work as follows:
+czesiek described his work as follows:
 
     I'm a hacker at OCCRP, I'm in charge of developing editorial pipeline
     (newsroom software geared towards investigative journalist teams; we plan
