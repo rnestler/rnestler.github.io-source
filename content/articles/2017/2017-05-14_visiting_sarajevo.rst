@@ -109,12 +109,12 @@ investigative journalism all over the world.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
-    :alt: Door to Czesieks office in the OCCRP place
+    :alt: Door to Czesiek's office in the OCCRP place
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Door to Czesieks office in the OCCRP place
+    Door to Czesiek's office in the OCCRP place
 
 Since I wanted to avoid taking pictures of any sensitive material I just took a
 picture of the door to the office ;)
@@ -132,7 +132,7 @@ hackerspace, so I changed the wiki entry to reflect that.  Because I was
 already there and had no other plans, I rented a desk at the `NEST71`_
 coworking space for 10€ and spent some time working on this blog post.
 
-In the evening there was a party at Czesieks house and I had the pleasure to
+In the evening there was a party at Czesiek's house and I had the pleasure to
 meet more of the OCCRP crew and other interesting people.  I enjoyed the fact,
 that we consisted of people from 7 different nations (Polish, French, Bosnian,
 Mexican, American, British and Swiss)!
