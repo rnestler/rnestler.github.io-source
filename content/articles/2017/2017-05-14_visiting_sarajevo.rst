@@ -21,7 +21,7 @@ suddenly the whole landscape looks different, with lots of hills and forests.
     View during a break on the car ride
 
 We then arrived in the early afternoon in Sarajevo.  Quite early during my
-"Tour de Hackerspace" `Czesiek`_ offered `via Twitter`_ to show me around
+"Tour de Hackerspace" `czesiek`_ offered `via Twitter`_ to show me around
 Sarajevo when I get there for a visit, which I found quite amazing!  So I
 arranged with him to couch surf at his place and meet him there in the evening.
 
@@ -42,7 +42,7 @@ At some point during the afternoon, I noticed that I forgot my Ferris plushie
 in the BlaBlaCar!  So I contacted the driver again and we arranged to meet the
 next day in the morning.
 
-In the evening I met with Czesiek and after placing my luggage in his flat, we
+In the evening I met with czesiek and after placing my luggage in his flat, we
 proceeded to go to a micro brewery to get some of the local beer.  Afterwards
 we went to a few other places and at one of them ended up meeting some Australian
 guys I've seen earlier in the afternoon in the old town.  I always love meeting
@@ -99,27 +99,27 @@ streets and alleyways.
 In the evening we had again lots of fun, this time visiting a sisha bar /
 hookah lounge where there was some live music.  In the mean time I found out,
 that the hackerspace which is mentioned in the HackerspaceWiki probably
-doesn't exist.  So during the evening I talked with Czesiek and his friends
+doesn't exist.  So during the evening I talked with czesiek and his friends
 about founding one in Sarajevo.
 
-The next day I slept in and then met with Czesiek for lunch and then proceeded
+The next day I slept in and then met with czesiek for lunch and then proceeded
 to visit his workplace in Sarajevo.  He works for the `Organized Crime and
 Corruption Reporting Project`_ (OCCRP), which does a great job supporting
 investigative journalism all over the world.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_occrp_office.jpg
-    :alt: Door to Czesiek's office in the OCCRP place
+    :alt: Door to czesiek's office in the OCCRP place
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    Door to Czesiek's office in the OCCRP place
+    Door to czesiek's office in the OCCRP place
 
 Since I wanted to avoid taking pictures of any sensitive material I just took a
 picture of the door to the office ;)
 
-Czesiek self described his work as follows:
+czesiek self described his work as follows:
 
     I'm a hacker at OCCRP, I'm in charge of developing editorial pipeline
     (newsroom software geared towards investigative journalist teams; we plan
@@ -132,12 +132,12 @@ hackerspace, so I changed the wiki entry to reflect that.  Because I was
 already there and had no other plans, I rented a desk at the `NEST71`_
 coworking space for €10 and spent some time working on this blog post.
 
-In the evening there was a party at Czesiek's house and I had the pleasure to
+In the evening there was a party at czesiek's house and I had the pleasure to
 meet more of the OCCRP crew and other interesting people.  I enjoyed the fact
 that our group consisted of people from 7 different nations (Polish, French,
 Bosnian, Mexican, American, British and Swiss)!
 
-Despite having some slight trouble getting up on Saturday morning, Czesiek
+Despite having some slight trouble getting up on Saturday morning, czesiek
 and I attended a `protest`_ against violence towards LGBT people.  It was a
 very peaceful and somewhat cheerful event.
 
@@ -173,14 +173,14 @@ to Trebević mountain to enjoy the view and walk the way down.
 
     View from Trebević
 
-I really loved my stay in Sarajevo.  Czesiek is an awesome host and I can
+I really loved my stay in Sarajevo.  czesiek is an awesome host and I can
 highly recommend to stay with him if you are in Sarajevo ;)
 
 However, next stop: Zagreb, Croatia!
 
 .. [#] This was my first BlaBlaCar ride. I can really recommend to travel with it!
 
-.. _`Czesiek`: https://twitter.com/czesiekhaker
+.. _`czesiek`: https://twitter.com/czesiekhaker
 .. _`via Twitter`: https://twitter.com/czesiekhaker/status/852902273189634049
 .. _`Bosnian coffee`: https://duckduckgo.com/?q=bosnian+coffee&yeg=B&iax=1&ia=images
 .. _`Bijela Tabija castle`: http://www.openstreetmap.org/way/23723340
