@@ -162,16 +162,16 @@ In the evening we went to the after party of the protest and again I met some
 amazing people, amongst others Emina Bošnjak from the `Sarajevo Open Centre`_.
 
 The next day I had a BlaBalCar booked for the early afternoon, so we just went
-to TODO name to enjoy the view and walk the way down.
+to Trebević mountain to enjoy the view and walk the way down.
 
 .. figure:: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
     :target: /images/tour_de_hackerspace/sarajevo/sarajevo_mountain_2.jpg
-    :alt: View from ....
+    :alt: View from Trebević
     :align: center
     :width: 80%
     :figwidth: 80%
 
-    View from ....
+    View from Trebević
 
 I really loved my stay in Sarajevo.  Czesiek is an awesome host and I can
 highly recommend to stay with him if you are in Sarajevo ;)
