@@ -144,23 +144,91 @@ wars`_.  We also talked about the difficult economic situation in Croatia
 including the recent `collapse of Agrokor`_, Croatias biggest business empire,
 which has the potential to bring the whole country down.
 
-* Arts projects
+Tuesday May 16th.  This day marked the deadline which the government has given
+Medika to move out of the space.  But in the meantime they met with some of the
+government's representatives for this matter and got assured that the could
+stay.  Apparently the whole thing about them needing to move out was triggered
+because the building doesn't fit the fire safety requirements anymore, so the
+government would need to fix it.  But they try to find a way without them
+needing to move out completely and later move back in.
 
-  * http://pivilion.net/
-  * Glitch art stuff
+Also, probably because of all the media attention, a girl on Facebook
+independently organized a party in Medika to show support for the place.  So
+when I got up people where already preparing stuff for the party.
 
-Tuesday
+Since it was very nice weather I decided to take a look at the Botanics garden
+in Zagreb.
 
-* Day of "move out"
-* Party independently organized by a girl via Facebook
-* Nice weather -> Botanics garden
-* Workshop on Rust
-* Short visit to RADIONA 
-* Party
+.. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_botanic_garden_4.jpg
+    :target: /images/tour_de_hackerspace/hacklab01/hacklab01_botanic_garden_4.jpg
+    :alt: Botanics garden
+    :align: center
+    :width: 80%
+    :figwidth: 80%
 
-Wedensday
+    Botanics garden
 
-* On to slovenia
+After that I wandered around the city and got some coffee (and somehow got
+member of a `book club`_).  This lead to me almost missing the introduction to
+Rust workshop I agreed to give in hacklab01!  So I rushed back to the space and
+shortly after had an awesome time helping people getting started with Rust.
+
+.. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_rust_intro.jpg
+    :target: /images/tour_de_hackerspace/hacklab01/hacklab01_rust_intro.jpg
+    :alt: Introduction to Rust
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Introduction to Rust
+
+After the workshop we joined the party
+
+.. figure:: /images/tour_de_hackerspace/hacklab01/hacklab01_party.jpg
+    :target: /images/tour_de_hackerspace/hacklab01/hacklab01_party.jpg
+    :alt: Party time!
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Party time!
+
+Someone suggested that I also visit another hackerspace in Zagreb, namely
+RADIONA.  One member of them offered to pick me and Vedran up by car at Medika
+and drive us to the space.
+
+PICTURE
+
+It is a rather small space, even smaller than coredump, but the community is
+very alive.  One of the members built his own electric skateboard and we had
+lots of fun talking about the design of it and testing it.
+
+PICTURE
+
+After our short visit, we returned back to Meidika, enjoying the party for the
+rest of the evening.
+
+The next day it was already time to leave. I met with Vedran to have some
+breakfast and we talked about the various projects they run.  Medika itself
+hosts many artists and arts projects, amongst others 
+
+* A `photo film studio`_
+* A `gallery`_
+* A `club`_
+* A `theatre group`_
+
+Vedran and Dina are especially involved in the glitch art community.  They
+organize a festival called `fu:bar`_ and developed a gallery management
+software called `pivilion`_.  
+
+The time I spent at hacklab01 / Medika was truly amazing!  I've seen so many
+things and met so many interesting people!  If you want to visit them as well
+you may apply for their `hackn3t`_ program, a hackers residency program.  I
+basically means, they will try to cover for your travel costs if you visit them
+and present some project or idea or whatever.
+
+But as much as I enjoyed my time in Zagreb, I was also looking forward to my
+next destination Ljubljana, Slovenia!
 
 .. [#] Medika is actually the name of a company which was located there some time ago
 .. [#] We ordered stuff from https://insekten-shop.ch/ and tried out different recipies
@@ -175,3 +243,12 @@ Wedensday
 .. _`Ottoman wars`: https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe
 .. _`collapse of Agrokor`: http://www.dw.com/en/croatias-agrokor-business-empire-too-big-to-fail/a-38757333
 .. _`RADIONA`: http://radiona.org/
+.. _`book club`: https://www.facebook.com/pages/Booksa/101023279982162
+.. _`Photo film studio`: http://attack.hr/foto-filmski-studio-medika/?lang=en
+.. _`gallery`: http://attack.hr
+.. _`club`: http://attack.hr
+.. _`theatre group`:
+.. _`fu:bar`: http://fubar.space/
+.. _`pivilion`: http://pivilion.net/
+.. _`hackn3t`: https://hacklab01.org/hackn3t
+
