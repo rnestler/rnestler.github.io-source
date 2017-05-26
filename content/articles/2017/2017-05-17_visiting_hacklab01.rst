@@ -193,24 +193,47 @@ After the workshop we joined the party
 
     Party time!
 
-Someone suggested that I also visit another hackerspace in Zagreb, namely
-RADIONA.  One member of them offered to pick me and Vedran up by car at Medika
-and drive us to the space.
+Vedran suggested that I also visit another hackerspace in Zagreb, namely
+RADIONA.  One member of them offered to pick up by car at Medika and drive us
+to the space.
 
-PICTURE
+.. figure:: /images/tour_de_hackerspace/radiona/radiona_1.jpg
+    :target: /images/tour_de_hackerspace/radiona/radiona_1.jpg
+    :alt: Electronic lab and 3D printers in RADIONA
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Electronic lab and 3D printers in RADIONA
+
+.. figure:: /images/tour_de_hackerspace/radiona/radiona_2.jpg
+    :target: /images/tour_de_hackerspace/radiona/radiona_2.jpg
+    :alt: Famous Nikola Tesla in RADIONA
+    :align: center
+    :width: 80%
+    :figwidth: 80%
+
+    Famous Nikola Tesla in RADIONA
 
 It is a rather small space, even smaller than coredump, but the community is
 very alive.  One of the members built his own electric skateboard and we had
 lots of fun talking about the design of it and testing it.
 
-PICTURE
+.. figure:: /images/tour_de_hackerspace/radiona/radiona_skate_board_2.jpg
+    :target: /images/tour_de_hackerspace/radiona/radiona_skate_board.mp4
+    :alt: DIY electric skateboard
+    :align: center
+    :width: 80%
+    :figwidth: 80%
 
-After our short visit, we returned back to Meidika, enjoying the party for the
+    DIY electric skateboard
+
+After our short visit, we returned back to Medika, enjoying the party for the
 rest of the evening.
 
 The next day it was already time to leave. I met with Vedran to have some
 breakfast and we talked about the various projects they run.  Medika itself
-hosts many artists and arts projects, amongst others 
+hosts many artists and arts projects, amongst others
 
 * A `photo film studio`_
 * A `gallery`_
@@ -219,7 +242,7 @@ hosts many artists and arts projects, amongst others
 
 Vedran and Dina are especially involved in the glitch art community.  They
 organize a festival called `fu:bar`_ and developed a gallery management
-software called `pivilion`_.  
+software called `pivilion`_.
 
 The time I spent at hacklab01 / Medika was truly amazing!  I've seen so many
 things and met so many interesting people!  If you want to visit them as well
@@ -245,9 +268,9 @@ next destination Ljubljana, Slovenia!
 .. _`RADIONA`: http://radiona.org/
 .. _`book club`: https://www.facebook.com/pages/Booksa/101023279982162
 .. _`Photo film studio`: http://attack.hr/foto-filmski-studio-medika/?lang=en
-.. _`gallery`: http://attack.hr
-.. _`club`: http://attack.hr
-.. _`theatre group`:
+.. _`gallery`: http://attack.hr/galerija-siva/?lang=en
+.. _`club`: http://attack.hr/klub-attack/?lang=en
+.. _`theatre group`: http://attack.hr/faki-19/?lang=en
 .. _`fu:bar`: http://fubar.space/
 .. _`pivilion`: http://pivilion.net/
 .. _`hackn3t`: https://hacklab01.org/hackn3t
