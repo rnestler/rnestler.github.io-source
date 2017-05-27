@@ -3,7 +3,6 @@ Visiting hacklab01
 
 :tags: tour de hackerspace, hackerspace, travelling
 :language: en
-:status: draft
 :summary: Visiting `hacklab01`_ in Zagreb
 
 After an entertaining BlaBlaCar ride with a mixed group of 7 Croatians who did
