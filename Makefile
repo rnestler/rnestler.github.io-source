@@ -101,7 +101,10 @@ s3_upload: publish
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
-github: publish
+output/CNAME:
+	echo "blog.rnstlr.ch" >> output/CNAME
+
+github: publish output/CNAME
 	ghp-import $(OUTPUTDIR)
 	git push git@github.com:rnestler/rnestler.github.io.git gh-pages:master
 	git push git@github.com:rnestler/rnestler.github.io-source.git gh-pages:gh-pages
